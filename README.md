@@ -10,7 +10,7 @@ This is a forked project of [R-BERT](https://github.com/jmshen1994/R-BERT). It i
 
 ## How to train/eval
 
-All configurations are set in `config.ini`. To train or eval run `CUDA_VISIBLE_DEVICES=0 python r_bert.py --config config.ini`. The evaluation is ran on all the checkpoints in the output folder.
+All configurations are set in `config.ini`. To train or eval run `CUDA_VISIBLE_DEVICES=0 python r_bert.py --config config.ini`. The evaluation is ran on all the checkpoints in the output folder. When running training cached files are made for datasets, so they need to be deleted if another dataset file is used.
 
 1. On TermFrame (EN/SL)
  - To train set `data_dir=./data/termframe_[eng/slo]`, `task_name=termframe_[eng/slo]`, `output_dir=./output/termframe_[eng/slo]`, `train=True`, `eval=False`, `save_steps=100-200`
@@ -22,7 +22,7 @@ All configurations are set in `config.ini`. To train or eval run `CUDA_VISIBLE_D
 
 ## Transfer learning
 
-First in the `utils.py` change TERMFRAME_RELATION_LABELS, to use the mapped labels. To use the weights from training on SemEval run with following configuration settings:
+First in the `utils.py` change TERMFRAME_RELATION_LABELS, to use the mapped labels and set `GLUE_TASKS_NUM_LABEL` for termframe to 19. In TermFrame rename `_mapped.tsv` dev and train file to `dev.tsv` and `train.tsv`. To use the weights from training on SemEval run with following configuration settings:
 ```
 task_name=termframe_[eng/slo]
 output_dir=./output/semeval

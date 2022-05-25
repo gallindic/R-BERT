@@ -1,0 +1,458 @@
+1	[E11] aragonite [E12] is a metastable [E21] modification of caco3 [E22], which sometimes forms in seawater and transforms into calcite during diagenesis.	9	cause	effect	1
+3	the term [E11] bedding-plane cave [E12] is strictly applied to a [E21] passage [E22] that has not enlarged by growth into a major tube or canyon, but has remained almost entirely on the bedding plane.	13	entity	origin	1
+5	[E11] glacial cirques [E12] have been transformed by solution into closed depressions, and are called [E21] cirque-dolines [E22].	10	effect	cause	2
+9	[E11] karst [E12] formed by the influence surface river flow could be designated by the term of [E21] contact karst [E22].	10	effect	cause	2
+13	[E11] endokarst [E12] is defined as [E21] karst [E22] developing in the lower part of the karstosphere, where the internal (telluric) energy is dominant and the rock mass is under lithostatic pressure which exceeds its tensile strength.	9	cause	effect	1
+13	[E11] endokarst [E12] is defined as [E21] karst [E22] developing in the lower part of the karstosphere, where the internal (telluric) energy is dominant and the rock mass is under lithostatic pressure which exceeds its tensile strength.	13	entity	origin	1
+14	the [E11] epikarst [E12] is defined as the uppermost [E21] zone of exposed karst rock [E22], in which permeability due to fissuring and karstification is higher and more uniformly distributed than in the rock mass below.	13	entity	origin	1
+15	the [E11] highly corroded zone [E12] near the surface is termed the epikarst or [E21] subcutaneous zone [E22].	14	origin	entity	2
+16	the [E11] highly corroded zone [E12] near the surface is termed the [E21] epikarst [E22] or subcutaneous zone.	14	origin	entity	2
+18	the [E11] exokarstic storey [E12] represents the [E21] upper part of the karstosphere [E22] between the topographic surface and a depth of 0.5 to 7.0 km.	13	entity	origin	1
+19	in structural geology, [E11] faults [E12] are defined as [E21] fractures [E22] in the rocks of the earth's crust along which movement has occurred or still occurs (davis & reynolds 1996).	13	entity	origin	1
+21	[E11] flowstone [E12] is a general term referring to a [E21] deposit [E22] formed from thin films or trickles of water, the minerals are usually calcium carbonate and encrust floors or walls.	9	cause	effect	1
+21	[E11] flowstone [E12] is a general term referring to a [E21] deposit [E22] formed from thin films or trickles of water, the minerals are usually calcium carbonate and encrust floors or walls.	13	entity	origin	1
+23	[E11] kluftkarren [E12] or grikes are merely the visible surface expression of the [E21] fissures of a karstifiable rock [E22]; as such, they are a significant component of the epikarst, or the outer skin of the whole karst system.	13	entity	origin	1
+24	kluftkarren or [E11] grikes [E12] are merely the visible surface expression of the [E21] fissures of a karstifiable rock [E22]; as such, they are a significant component of the epikarst, or the outer skin of the whole karst system.	13	entity	origin	1
+25	[E11] hypogene karst [E12] is defined as [E21] the formation of caves [E22] by water that recharges the soluble formation from below, driven by hydrostatic pressure or other sources of energy, independent of the recharge from the overlying or immediately adjacent surface (ford, 2000). caves	9	cause	effect	1
+27	[E11] karren [E12] is a common term used for [E21] dissolution features [E22] on exposed soluble rock surfaces (gines 2009). dissolution	13	entity	origin	1
+28	in the most general terms, [E11] karst [E12] may be defined as a [E21] process [E22] of interaction between soluble rocks and different waters, as a result of which characteristic features develop on the earth's surface and underground. process	9	cause	effect	1
+28	in the most general terms, [E11] karst [E12] may be defined as a [E21] process [E22] of interaction between soluble rocks and different waters, as a result of which characteristic features develop on the earth's surface and underground. process	9	cause	effect	1
+29	[E11] karstification [E12] is the [E21] geologic process [E22] of differential chemical and mechanical erosion by water on soluble bodies of rock, such as limestone, dolomite, gypsum, or salt, at or near the earth ’ s surface.	9	cause	effect	1
+29	[E11] karstification [E12] is the [E21] geologic process [E22] of differential chemical and mechanical erosion by water on soluble bodies of rock, such as limestone, dolomite, gypsum, or salt, at or near the earth ’ s surface.	13	entity	origin	1
+30	the term [E11] karst [E12] describes a distinctive [E21] topography [E22] that indicates dissolution (also called chemical solution) of underlying soluble rocks by surface water or ground water.	9	cause	effect	1
+31	the term [E11] karst [E12] applies to a distinctive [E21] type of landscape [E22] that develops from the dissolving action of water on soluble bedrock, primarily limestone and marble but also dolostone, gypsum and halite.	9	cause	effect	1
+32	[E11] karst [E12] is defined as a [E21] terrain [E22], generally underlain by limestone or dolomite, in which the topography is chiefly formed by the dissolving of rock, and which may be characterised by sinkholes, sinking streams, closed depressions, subterranean drainage and caves (field 2002). underlain by limestone or dolomite	9	cause	effect	1
+32	[E11] karst [E12] is defined as a [E21] terrain [E22], generally underlain by limestone or dolomite, in which the topography is chiefly formed by the dissolving of rock, and which may be characterised by sinkholes, sinking streams, closed depressions, subterranean drainage and caves (field 2002). underlain by limestone or dolomite	13	entity	origin	1
+33	[E11] karst [E12] is the term applied to [E21] terrains [E22] underlain by soluble rock: mainly limestone, dolomite and gypsum.	13	entity	origin	1
+34	[E11] karst [E12] is a [E21] landscape [E22] created by the dissolution of carbonate rocks, although similar features can also be found in volcanic and permafrost areas.	9	cause	effect	1
+35	[E11] karst [E12] is a [E21] product of processes [E22] that operate on continental land masses, especially when the land masses are uplifted above sea level. on continental land masses	9	cause	effect	1
+35	[E11] karst [E12] is a [E21] product of processes [E22] that operate on continental land masses, especially when the land masses are uplifted above sea level. on continental land masses	13	entity	origin	1
+36	[E11] karst [E12] is [E21] terrain [E22] with distinctive hydrology and landforms arising from the combination of high rock solubility and well-developed solution channel (secondary) porosity underground. rock	9	cause	effect	1
+39	[E11] karst topography [E12] is a [E21] landscape [E22] shaped by the dissolution of soluble bedrock. bedrock	9	cause	effect	1
+41	[E11] short steep-sided valleys [E12] caused by collapse of an underground cavern and exposing the river to the surface are called [E21] karst windows [E22].	10	effect	cause	2
+43	a [E11] konta [E12] is a [E21] closed karst depression [E22], like a doline, that has been remodelled during pleistocene glaciation.	9	cause	effect	1
+44	a [E11] losing streamflow [E12] is a surface [E21] stream [E22] that contributes water to the karst groundwater system in localized areas.	13	entity	origin	1
+54	the term [E11] secondary porosity [E12] is used for the [E21] spaces [E22] created in carbonate rocks in the post-petrification period. in the post-petrification period	13	entity	origin	1
+55	[E11] gravitational water [E12] is the [E21] water [E22], which due to gravity, penetrates and flows into the underground system.	9	cause	effect	1
+61	[E11] mines [E12] are fresh [E21] excavations in the bedrock [E22] and it is the stress pattern around the opening that determines such hazards as rock bursts, spalling, and roof collapse (brady and brown, 1993).	9	cause	effect	1
+61	[E11] mines [E12] are fresh [E21] excavations in the bedrock [E22] and it is the stress pattern around the opening that determines such hazards as rock bursts, spalling, and roof collapse (brady and brown, 1993).	9	cause	effect	1
+66	a particular type of [E11] collapse doline [E12] is the [E21] cenotes [E22], open depressions in the coastal karst belts giving access to the water table and resulting from the collapse of the roof of submerged cavities.	10	effect	cause	2
+66	a particular type of [E11] collapse doline [E12] is the [E21] cenotes [E22], open depressions in the coastal karst belts giving access to the water table and resulting from the collapse of the roof of submerged cavities.	14	origin	entity	2
+67	[E11] subsidence dolines [E12] are [E21] closed depressions [E22] caused by the subsiding of an area.	9	cause	effect	1
+68	[E11] intersection dolines [E12] are [E21] depressions [E22] formed when an old cave system, partially or totally filled with sediments, is cut by the topographic surface as a consequence of the lowering of such a surface by chemical erosion.	9	cause	effect	1
+69	a [E11] compound hollow [E12] is a [E21] form [E22] that originated from the fusion of simpler forms.	9	cause	effect	1
+70	a [E11] polygenetic sink [E12] is a [E21] closed depression [E22] that clearly evolved through both the karst process and another morphogenetic process.	9	cause	effect	1
+71	a [E11] tecto-karstic hollow [E12] is a [E21] closed basin [E22] that developed inside a tectonic depression that also evolved through karst processes.	9	cause	effect	1
+71	a [E11] tecto-karstic hollow [E12] is a [E21] closed basin [E22] that developed inside a tectonic depression that also evolved through karst processes.	13	entity	origin	1
+72	[E11] poljes [E12] are the largest [E21] closed depressions [E22] observed in the karst terrains. largest closed depressions	13	entity	origin	1
+76	the precise scientific name is [E11] littoral cave [E12], meaning a [E21] cave [E22] formed within the range of tides.	13	entity	origin	1
+77	[E11] sea caves [E12] are [E21] caves [E22] that form by wave erosion in coastal areas that contain exposed bedrock.	9	cause	effect	1
+77	[E11] sea caves [E12] are [E21] caves [E22] that form by wave erosion in coastal areas that contain exposed bedrock.	13	entity	origin	1
+78	the [E11] flank margin caves [E12] are a [E21] series of oval rooms [E22] from pore size up to large chambers, which tend to be extensive in the horizontal direction, but limited in the vertical direction, a result of developing in the thinning margin of the freshwater lens (fig.	9	cause	effect	1
+79	[E11] blue holes [E12] are defined as [E21] subsurface voids [E22] that are developed in carbonate banks and islands; are open to the earth ’ s surface; contain tidally-influenced waters of fresh, marine, or mixed chemistry; extend below sea level for a majority of their depth; and may provide access to submerged cave passages.	13	entity	origin	1
+81	[E11] karst forms [E12] are surface and subsurface [E21] karst features [E22] formed mainly by solutional processes of carbonate rocks of the region which are extremely well folded and fractured due to tectonic events. solutional processes	9	cause	effect	1
+81	[E11] karst forms [E12] are surface and subsurface [E21] karst features [E22] formed mainly by solutional processes of carbonate rocks of the region which are extremely well folded and fractured due to tectonic events. solutional processes	13	entity	origin	1
+82	[E11] collapse dolines [E12] are common [E21] features [E22] of the dinaric karst and are especially numerous above known large caves.	13	entity	origin	1
+83	[E11] karst poljes [E12] are large [E21] karst depressions [E22] with flat bottoms, which are the result of solutional processes and karst water drainage.	9	cause	effect	1
+84	[E11] remnants of old river streams [E12] are [E21] dry valleys [E22], which lack an active watercourse over all or parts of their length for at least part of the year, because water is lost in karst or is in a much lower position.	10	effect	cause	2
+85	[E11] calcretes [E12] are [E21] carbonate deposits [E22] forming from groundwater near the water table in arid lands as a result of concentration processes by near-surface evaporation.	9	cause	effect	1
+85	[E11] calcretes [E12] are [E21] carbonate deposits [E22] forming from groundwater near the water table in arid lands as a result of concentration processes by near-surface evaporation.	13	entity	origin	1
+86	the [E11] halocline [E12] is a [E21] layer [E22] where the salinity abruptly changes (sometimes from polyhaline to nearly limnic).	13	entity	origin	1
+87	[E11] glaciers [E12] are [E21] sedimentary formations of seasonal snow [E22] that accumulates on the upper elevations of a glacier and buries the previous season ’ s accumulation.	13	entity	origin	1
+88	[E11] denuded karst [E12] is [E21] former intrastratal karst [E22] that develops where the soluble rock has been almost completely exposed from beneath the cover, but with substantial inheritance of solution porosity from the preceding stages of intrastratal development.	9	cause	effect	1
+91	in porous media aquifers, [E11] pores [E12] between mineral grains are [E21] the open spaces [E22] available for the storage of water.	13	entity	origin	1
+94	[E11] network caves [E12] are [E21] angular grids of intersecting passages [E22] formed by widening of nearly all major fractures within favorable areas of soluble rocks.	9	cause	effect	1
+94	[E11] network caves [E12] are [E21] angular grids of intersecting passages [E22] formed by widening of nearly all major fractures within favorable areas of soluble rocks.	13	entity	origin	1
+97	[E11] longitudinal rills [E12] / flutes are [E21] suites of vertical grooves [E22] that develop where a water film flows down a high angle rock face.	9	cause	effect	1
+98	longitudinal rills / [E11] flutes [E12] are [E21] suites of vertical grooves [E22] that develop where a water film flows down a high angle rock face.	9	cause	effect	1
+99	[E11] dissolutional potholes [E12] are sharp-edged, rounded-interior [E21] basins [E22] in stream beds.	13	entity	origin	1
+100	the term [E11] anastamose [E12] refers to a [E21] reticulate pattern [E22] (such as in the veins of a leaf); in caves it applies to a pattern of interweaving channels.	13	entity	origin	1
+101	[E11] pendants [E12] are [E21] positive forms [E22] hanging from passage ceilings, typically b10 — 100 cm in dimension.	13	entity	origin	1
+102	[E11] cupolas [E12] are characteristic [E21] features of thermal caves [E22].	13	entity	origin	1
+103	a [E11] cutter [E12] is a deep [E21] grike [E22] that has formed under an acidic soil cover, often with a complex curved cross section, some cavernous karren, and remnant rounded pinnacles.	13	entity	origin	1
+106	[E11] caves [E12] are natural subterranean cavities, fissures, and [E21] fragments of conduit systems [E22] that are accessible to human exploration. subterranean	13	entity	origin	1
+110	[E11] knickpoints [E12] are sudden [E21] changes in the gradient [E22] of a river ’ s long profile, such as rapids or waterfalls, and may form as a response to a sudden drop in the water table.	9	cause	effect	1
+111	a [E11] room [E12] is a type of [E21] passage [E22] that is wide relative to its length; rooms often form where passages intersect and are circular, oval, or irregular in shape.	13	entity	origin	1
+113	the term [E11] flute [E12] has been used for the elongate, nearly [E21] parallel crested forms [E22] seen in some cave passages.	13	entity	origin	1
+114	the result is the so-called [E11] lampenflora [E12], that is, [E21] green plants [E22] (generally algae, fern, moss) developing on cave walls or formations close to a light source.	13	entity	origin	1
+116	[E11] allogeneic waters [E12] are defined as [E21] stream flow [E22] derived from nonlocal sources. derived from nonlocal sources	9	cause	effect	1
+122	fossil [E11] vertically extended collapse features [E12] known as breccia pipes, collapse columns, or geologic organs, and also termed [E21] vertical through structures [E22], are a common by-product of hypogene speleogenesis in a variety of geological settings.	10	effect	cause	2
+123	[E11] speleothems [E12] are [E21] deposits [E22] of secondary minerals (such as calcite) that form on the ceilings, walls, and floors of caves.	13	entity	origin	1
+125	[E11] helictites [E12] are an erratic [E21] stalactite-like form [E22] that occurs when seepage rates are too slow for complete drops to form.	9	cause	effect	1
+126	[E11] cave pearls [E12] are near-spherical, unattached [E21] speleothem [E22] hat form in pools agitated by water dripping from considerable heights.	13	entity	origin	1
+126	[E11] cave pearls [E12] are near-spherical, unattached [E21] speleothem [E22] hat form in pools agitated by water dripping from considerable heights.	9	cause	effect	1
+127	[E11] colluvial transport [E12] is down-slope [E21] movement of sediments [E22] without the assistance of water.	9	cause	effect	1
+127	[E11] colluvial transport [E12] is down-slope [E21] movement of sediments [E22] without the assistance of water.	13	entity	origin	1
+128	[E11] stalagmitic flowstones [E12] are a particular type of [E21] stalagmite [E22] formed by a thin flowing film of water itself fed by groups of dripping stalactites, and coat the cave floor and walls. are a	9	cause	effect	1
+128	[E11] stalagmitic flowstones [E12] are a particular type of [E21] stalagmite [E22] formed by a thin flowing film of water itself fed by groups of dripping stalactites, and coat the cave floor and walls. are a	13	entity	origin	1
+129	[E11] soda straws [E12] are [E21] speleothems [E22] generated by axial feeding, and characterized by a central canal with constant diameter and by a wall structure that is controlled by geometric selection during growth on the meniscus of a drip.	9	cause	effect	1
+130	[E11] stalagmites [E12] are convex [E21] deposits [E22] that grow upward, commonly fed by an overhanging stalactite, and show flat, rounded, or slightly hollow tops, but not a central canal.	9	cause	effect	1
+131	also known as ponors, [E11] swallow holes [E12] are the [E21] point [E22] at which a sinking stream heads underground.	13	entity	origin	1
+132	also known as [E11] ponors [E12], swallow holes are the [E21] point [E22] at which a sinking stream heads underground.	13	entity	origin	1
+135	[E11] exokarst [E12] refers to the suit of [E21] karst [E22] features developed at the surface. at the surface	13	entity	origin	1
+137	[E11] karst-like landforms [E12] produced by processes other than dissolution or corrosion-induced subsidence and collapse are known as [E21] pseudokarst [E22].	10	effect	cause	2
+138	[E11] thermokarst [E12] is a related term applied to [E21] topographic depressions [E22] resulting from thawing of ground ice. ground ice	9	cause	effect	1
+139	[E11] holokarst [E12] is pure [E21] karst [E22] uninfluenced by other rocks, and is developed on thick limestones extending well below baselevel.	13	entity	origin	1
+141	[E11] tufa [E12] refers to softer porous [E21] material [E22] found near cave entrances where rapid deposition is encouraged by evaporation.	9	cause	effect	1
+141	[E11] tufa [E12] refers to softer porous [E21] material [E22] found near cave entrances where rapid deposition is encouraged by evaporation.	13	entity	origin	1
+146	shaft-like [E11] depressions [E12] deeply flooded by seawater in low-lying coral islands are known as [E21] blue holes [E22].	14	origin	entity	2
+147	[E11] suffosion [E12] is the [E21] process [E22] whereby fines are evacuated through underlying pipes in the karstified bedrock by a combination of physical downwashing and chemical solution.	9	cause	effect	1
+147	[E11] suffosion [E12] is the [E21] process [E22] whereby fines are evacuated through underlying pipes in the karstified bedrock by a combination of physical downwashing and chemical solution.	13	entity	origin	1
+147	[E11] suffosion [E12] is the [E21] process [E22] whereby fines are evacuated through underlying pipes in the karstified bedrock by a combination of physical downwashing and chemical solution.	9	cause	effect	1
+149	[E11] breccia pipes [E12] are common [E21] features [E22] of gypsum karst that are created by progressive stoping above sites of interstratal dissolution.	9	cause	effect	1
+152	[E11] solution runnels [E12] are normal hortonian [E21] channels [E22], heading where sheetflow or wash on a slope breaks down into linear threads.	9	cause	effect	1
+153	[E11] solution dolines [E12] are a common [E21] feature of karst [E22] in humid areas, yet not all carbonate rocks support them.	13	entity	origin	1
+154	[E11] pinnacle karst [E12] is a spectacular small-scale [E21] landform [E22] found principally in the humid tropics and subtropics, with the best known examples coming from gunung api, mulu, and mount kaijende, new guinea.	13	entity	origin	1
+156	[E11] blue holes [E12] are water-filled [E21] vertical openings [E22] in the carbonate rock of the islands, which exhibit complex morphologies, ecologies, and water chemistries.	13	entity	origin	1
+157	the term “ [E11] blue hole [E12] ” has been used in a variety of ways, but they are best defined as: “ [E21] subsurface voids [E22] that are developed in carbonate banks and islands; are open to the earth ’ s surface; contain tidally influenced waters of fresh, marine, or mixed chemistry; extend below sea-level for a majority of their depth; and may provide access to submerged cave passages.	13	entity	origin	1
+158	[E11] diagenesis [E12] is a term describing [E21] processes [E22] of compaction and / or cementation of the initially unconsolidated carbonate mud and debris (moore, 2001). compaction and / or cementation of the initially unconsolidated carbonate mud and debris	9	cause	effect	1
+159	[E11] dolostone [E12] is a major [E21] product of diagenesis [E22].	9	cause	effect	1
+162	[E11] mogotes [E12] are isolated [E21] karst towers [E22] that rise from the blanket sands in the northern section.	13	entity	origin	1
+163	[E11] fenglin [E12] is an extreme form of [E21] karst [E22] that only develops where dissolution rates, tectonic uplift, and alluviation maintain a critical balance (zhang, 1980).	9	cause	effect	1
+167	[E11] fovals [E12] are brown-greyish [E21] formations [E22] that can be found in different positions in the caves, on the floor, or on the rocky walls.	13	entity	origin	1
+168	glacier pseudokarst also develops in debris where buried ice melts in situ, developing [E11] closed depressions [E12], in isolation known as “ [E21] kettle holes [E22] ”, or assembled into extensive debris pseudokarst hillocks termed “ hummocky moraine ”.	10	effect	cause	2
+168	glacier pseudokarst also develops in debris where buried ice melts in situ, developing [E11] closed depressions [E12], in isolation known as “ [E21] kettle holes [E22] ”, or assembled into extensive debris pseudokarst hillocks termed “ hummocky moraine ”.	14	origin	entity	2
+169	the [E11] springs [E12] in allogenic karst aquifers are known as [E21] resurgences [E22], and are often characterized by substantial variation in water quality since they reflect the changing water quality of the sinking streams.	10	effect	cause	2
+169	the [E11] springs [E12] in allogenic karst aquifers are known as [E21] resurgences [E22], and are often characterized by substantial variation in water quality since they reflect the changing water quality of the sinking streams.	14	origin	entity	2
+170	autogenic karst aquifers feed [E11] springs [E12] known as [E21] exsurgences [E22].	10	effect	cause	2
+174	a [E11] paleocave hydrocarbon reservoir [E12] is a [E21] reservoir [E22] where the pore network consists of karst-related cavernous porosity and / or of cave-collapse-related interclast and fracture porosity.	9	cause	effect	1
+175	the [E11] phreatic zone [E12] is the deep [E21] portion of an aquifer [E22] that does not experience exchange with stream water, in contrast to the hyporheic zone.	13	entity	origin	1
+179	[E11] decantation runnels [E12] are [E21] rills [E22], which reduce in width and depth downslope because the solvent supply is not directly related to rainfall, but corresponds to overspilling stores of water, such as moss clumps, small snow banks, or soil remnants.	9	cause	effect	1
+180	[E11] karst [E12] is [E21] terrain [E22] with distinctive hydrology and landforms arising from the combination of high rock solubility and well-developed solution channel (secondary) porosity underground.	9	cause	effect	1
+181	[E11] aragonite [E12] is a main speleothem [E21] mineral [E22] in some parts of the cave, often in association with calcite.	13	entity	origin	1
+182	the caves are the world ’ s largest known examples of “ [E11] flank-margin caves [E12] ”, a [E21] type of cave [E22] that develops in carbonate coastlines as a result of sea-water and freshwater mixing inside the coastline. coastlines sea-water freshwater	9	cause	effect	1
+182	the caves are the world ’ s largest known examples of “ [E11] flank-margin caves [E12] ”, a [E21] type of cave [E22] that develops in carbonate coastlines as a result of sea-water and freshwater mixing inside the coastline. coastlines sea-water freshwater	13	entity	origin	1
+184	the outstanding [E11] landforms [E12] are [E21] dissolutional corridors [E22] (“ streets ”) in the limestone that follow major vertical fractures created by the doming (brook & ford, 1978).	10	effect	cause	2
+185	[E11] paleokarst [E12] is a worldwide [E21] phenomenon [E22] that is found on all continents, including antarctica, and in the geological record from the early proterozoic to the holocene.	13	entity	origin	1
+188	[E11] paragenesis [E12] is the term introduced by renault (1968) to describe the [E21] processes [E22] by which cave genesis within the phreatic zone is modified by influxes of sediment.	9	cause	effect	1
+191	large allogenic streams penetrate farther into the karst in well-defined valleys before they sink, and they produce [E11] landforms [E12] known as [E21] blind valleys [E22], because their valleys usually terminate abruptly in a cliff or steep slope.	10	effect	cause	2
+192	a [E11] pre-ponor retention [E12] is a temporary [E21] water accumulation [E22] in the surface depression just above the ponor. in the surface depression just above the ponor	13	entity	origin	1
+193	[E11] pseudokarstic caves [E12] are [E21] natural underground spaces [E22], large enough to enter and investigate, extending beyond daylight, and produced by some process other than dissolution.	9	cause	effect	1
+194	[E11] emanation [E12] is the [E21] net radon production rate [E22] in the rock walls of a cave, or in unconsolidated sediment within the cave, and ultimately depends on the concentration of uranium (which then decays to radium) in the material.	9	cause	effect	1
+196	[E11] whiting [E12] is a specific category of [E21] fine-grained filler [E22] derived by fine grinding such that > 95% is < 44 µm.	9	cause	effect	1
+198	[E11] moonmilk [E12] is a [E21] precipitate [E22] that seems to be originated by microbiological reactions.	9	cause	effect	1
+199	the term “ [E11] margin [E12] ” refers to the [E21] position of the cave [E22] at the margin of the lens, and the term “ flank ” refers to the cave ’ s position under the flank of the high ground that forms the island.	9	cause	effect	1
+199	the term “ [E11] margin [E12] ” refers to the [E21] position of the cave [E22] at the margin of the lens, and the term “ flank ” refers to the cave ’ s position under the flank of the high ground that forms the island.	13	entity	origin	1
+201	[E11] springs [E12] in autogenic aquifers, which receive the bulk of their recharge from a karst surface, are known as [E21] exsurgences [E22], and exhibit less variability in discharge and composition.	10	effect	cause	2
+202	[E11] open anchialine pools [E12] are [E21] coastal pools [E22] connected to the sea by cave corridors.	13	entity	origin	1
+203	[E11] fungi [E12] are important [E21] decomposers [E22] in caves and produce a variety of extracellular enzymes (lipases, proteinases, and chitinases) that degrade organic detritus. in caves	13	entity	origin	1
+207	[E11] entrances [E12] are accidental [E21] intersections of the caves [E22] by surface erosion.	9	cause	effect	1
+208	the [E11] fengcong [E12] is defined as [E21] groups of rocky hills [E22] or peaks rising from shared limestone foot-slopes.	13	entity	origin	1
+211	various names have been ascribed to the towers and the overall landscape: in chinese, [E11] tower karst [E12] is known as fenglin ([E21] peak forest [E22]) where towers are isolated, and fengcong (peak cluster) where groups of residual hills share a common exposed bedrock base; in spanish the towers are termed mogotes; in french they are tourelles or pitons; in german turmkarst; elsewhere they are known as “ haystacks ” and pepinos.	14	origin	entity	2
+212	various names have been ascribed to the towers and the overall landscape: in chinese, [E11] tower karst [E12] is known as [E21] fenglin [E22] (peak forest) where towers are isolated, and fengcong (peak cluster) where groups of residual hills share a common exposed bedrock base; in spanish the towers are termed mogotes; in french they are tourelles or pitons; in german turmkarst; elsewhere they are known as “ haystacks ” and pepinos.	14	origin	entity	2
+214	[E11] valleys [E12] are a [E21] feature [E22] of most karst regions, the exceptions ‘ being areas of polygonal karst where the whole surface is pitted by dolines, although even here there may be vestiges of former valley networks.	13	entity	origin	1
+215	[E11] pocket valleys [E12] (or steepheads) are the reverse of [E21] blind valleys [E22], since they occur in association with large springs close to the margins of karst areas.	13	entity	origin	1
+216	pocket valleys (or [E11] steepheads [E12]) are the reverse of [E21] blind valleys [E22], since they occur in association with large springs close to the margins of karst areas.	13	entity	origin	1
+217	in most references, [E11] uvalas [E12] are defined as [E21] karst depressions [E22] which are formed due to coalescence of several dolines.	9	cause	effect	1
+219	[E11] paleokarst [E12] is [E21] karst terrain [E22] that has been buried beneath younger sediments.	13	entity	origin	1
+222	[E11] karren [E12] is a common term used for [E21] dissolution features [E22] on exposed soluble rock surfaces. rock	13	entity	origin	1
+223	[E11] karst poljes [E12] are the largest flat-floored enclosed [E21] depressions [E22] in karst.	13	entity	origin	1
+226	the [E11] cave roof collapse [E12] is a slow [E21] process [E22] that proceeds by the breaking of the walls and ceiling until equilibrium is established on the slopes of the doline. collapse	9	cause	effect	1
+228	[E11] shilin [E12] is a type of [E21] pinnacle karst [E22] formed on a plateau of gently dipping limestone (knez & slabe 2002).	13	entity	origin	1
+229	[E11] stone forest [E12] refers to a particular [E21] karst landscape [E22], composed of a group of densely distributed limestone columns standing on an undulating karst plateau.	13	entity	origin	1
+230	[E11] karst springs [E12] are [E21] boundaries or ecotones [E22] between the subsurface and the surface environments.	13	entity	origin	1
+231	the [E11] epikarst [E12] is a [E21] permeable boundary [E22] between the surface and subsurface environments and can be conceptualized as the vadose critical zone of epigenic karst systems.	13	entity	origin	1
+234	[E11] goethite [E12] is a very frequent [E21] mineral [E22] created in the oxidation of various iron minerals, but can also be created as a precipitate in marshes and springs.	9	cause	effect	1
+235	[E11] lowland [E12] is a [E21] lower karstified section [E22] with gently sloping hills.	13	entity	origin	1
+236	smaller [E11] fluvial karst forms [E12] (mesoforms) are smaller [E21] dolines [E22] that can be found particularly on flat parts of land and can amount to several 10 per km2.	13	entity	origin	1
+237	smaller fluvial karst forms ([E11] mesoforms [E12]) are smaller [E21] dolines [E22] that can be found particularly on flat parts of land and can amount to several 10 per km2.	13	entity	origin	1
+238	[E11] scallops [E12] are [E21] shallow niches [E22], up to a few cm long, that are shaped by eddies. eddies	9	cause	effect	1
+239	[E11] lampenflora [E12] is a [E21] complex community of organisms [E22] growing on illuminated areas such as rocky surfaces, sediment and artificial materials around lamps.	13	entity	origin	1
+241	the word epikarst came into widespread use in the 1990s following the definition by mangin (1973) of an [E11] epikarst aquifer [E12] as a perched saturated [E21] zone [E22] within the superficial part of the karst that stores a part of the infiltrated water (bakalowicz, 2012).	13	entity	origin	1
+243	[E11] speleogenesis [E12] (karstic) is a [E21] mass-transfer process [E22], which critically depends on both, the aggressiveness of groundwater and its circulation (movement).	9	cause	effect	1
+244	[E11] tafoni geomorphology [E12] designates a [E21] hollow shape [E22] rounded several decimeters to several meters, carved by erosion in the coastal carbonates.	9	cause	effect	1
+245	[E11] sea caves [E12], also known as littoral caves, are a type of [E21] cave [E22] formed primarily by wave action.	9	cause	effect	1
+246	sea caves, also known as [E11] littoral caves [E12], are a type of [E21] cave [E22] formed primarily by wave action.	9	cause	effect	1
+247	in desert environments, [E11] spring mounds [E12] are [E21] hot beds [E22] of biological activity that, like soils, tend to be zones of high pco2.	13	entity	origin	1
+251	a [E11] blind valley [E12] is a [E21] gorge [E22] that terminates abruptly at a point where the stream sinks.	13	entity	origin	1
+252	[E11] ghost rock karstification [E12] is an intermediate [E21] phenomenon [E22], between karstification stricto sensu and the alteration of fractured rock, for example like in granites, where the action of water occurs only as it filters in through fractures.	9	cause	effect	1
+253	[E11] collapse dolines [E12] are large [E21] depressions [E22] that were formed with slow collapsing of roofs above larger underground cavities and afterwards with transformation of slopes.	9	cause	effect	1
+253	[E11] collapse dolines [E12] are large [E21] depressions [E22] that were formed with slow collapsing of roofs above larger underground cavities and afterwards with transformation of slopes.	13	entity	origin	1
+255	[E11] aeolian calcarenite [E12] - a [E21] limestone [E22] formed on land by solution and redeposition of calcium carbonate in coastal dune sands containing a large proportion of calcareous sand from mollusc shells and other organic remains.	13	entity	origin	1
+259	[E11] bedding-grike [E12] - a narrow, rectilinear [E21] slot in a karst rock outcrop [E22] as a result of solution along a bedding-plane. along a bedding-plane	9	cause	effect	1
+259	[E11] bedding-grike [E12] - a narrow, rectilinear [E21] slot in a karst rock outcrop [E22] as a result of solution along a bedding-plane. along a bedding-plane	13	entity	origin	1
+261	[E11] bedding-plane cave [E12] - a [E21] cavity [E22] developed along a bedding-plane and elongate in cross-section as a result.	13	entity	origin	1
+265	[E11] blowhole [E12] - a [E21] hole [E22] to the surface in the roof of a sea cave through which waves force air and water.	13	entity	origin	1
+270	[E11] canyon [E12] - a deep [E21] valley [E22] with steep to vertical walls; in karst frequently formed by a river rising on impervious rocks outside the karst area.	9	cause	effect	1
+271	[E11] canyon [E12] - a deep, elongated [E21] cavity [E22] cut by running water in the roof or floor of a cave or forming a cave passage.	9	cause	effect	1
+276	[E11] cave fill [E12] - transported [E21] materials [E22] such as silt, day, sand and gravel which cover the bedrock floor or partially or wholly block some part of a cave.	13	entity	origin	1
+276	[E11] cave fill [E12] - transported [E21] materials [E22] such as silt, day, sand and gravel which cover the bedrock floor or partially or wholly block some part of a cave.	9	cause	effect	1
+277	[E11] cave pearl [E12] - a smooth, polished and rounded [E21] speleothem [E22] found in shallow hollows into which water drips.	13	entity	origin	1
+278	[E11] cave spring [E12] - a natural [E21] flow of water [E22] from rock or sediment inside a cave.	13	entity	origin	1
+280	[E11] cavern [E12] - a very large [E21] chamber [E22] within a cave.	13	entity	origin	1
+282	[E11] chamber [E12] - the largest order of [E21] cavity [E22] in a cave, with considerable width and length but not necessarily great height.	13	entity	origin	1
+284	[E11] column [E12] - a [E21] speleothem [E22] from floor to ceiling, formed by the growth and joining of a stalactite and a stalagmite, or by the growth of either to meet bedrock.	9	cause	effect	1
+285	[E11] conduit [E12] - an underground [E21] stream course [E22] completely filled with water and under hydrostatic pressure or a circular or elliptical passage inferred to have been such a stream course.	13	entity	origin	1
+286	[E11] corrosion [E12] - the [E21] wearing away of bedrock [E22] or loose sediment by mechanical action of moving agents, especially water.	9	cause	effect	1
+286	[E11] corrosion [E12] - the [E21] wearing away of bedrock [E22] or loose sediment by mechanical action of moving agents, especially water.	9	cause	effect	1
+287	[E11] curtain [E12] - a [E21] speleothem [E22] in the form of a wavy or folded sheet, often translucent and resonant, hanging from the roof or wall of a cave.	13	entity	origin	1
+288	[E11] dark zone [E12] - the [E21] part of a cave [E22] which daylight does not reach.	13	entity	origin	1
+290	[E11] doline [E12] - a closed [E21] depression [E22] draining underground in karst, of simple but variable form, e.g., cylindrical, conical, bowl - or dish-shaped. from a few to many hundreds of metres in dimension.	13	entity	origin	1
+292	[E11] dome [E12] - a large hemispheroidal [E21] hollow [E22] in the roof of a cave, formed by breakdown and / or salt weathering, generally in mechanically weak rocks, which prevents bedding and joints dominating the form.	9	cause	effect	1
+292	[E11] dome [E12] - a large hemispheroidal [E21] hollow [E22] in the roof of a cave, formed by breakdown and / or salt weathering, generally in mechanically weak rocks, which prevents bedding and joints dominating the form.	13	entity	origin	1
+293	[E11] driphole [E12] - a [E21] hole [E22] formed by water dripping onto the cave floor. cave floor	9	cause	effect	1
+293	[E11] driphole [E12] - a [E21] hole [E22] formed by water dripping onto the cave floor. cave floor	13	entity	origin	1
+294	[E11] dripline [E12] - a [E21] line on the ground [E22] at a cave entrance formed by drips from the rock above, useful in cave survey to define the beginning of the cave.	9	cause	effect	1
+294	[E11] dripline [E12] - a [E21] line on the ground [E22] at a cave entrance formed by drips from the rock above, useful in cave survey to define the beginning of the cave.	13	entity	origin	1
+295	[E11] dripstone [E12] - a [E21] deposit [E22] formed from drops falling from cave roofs or walls, usually of calcite.	9	cause	effect	1
+300	[E11] erosion [E12] - the [E21] wearing away [E22] of bedrock or sediment at the surface or in caves by mechanical and chemical actions of all moving agents, such as rivers, wind and glaciers.	9	cause	effect	1
+300	[E11] erosion [E12] - the [E21] wearing away [E22] of bedrock or sediment at the surface or in caves by mechanical and chemical actions of all moving agents, such as rivers, wind and glaciers.	13	entity	origin	1
+301	[E11] exsurgence [E12] - a [E21] spring [E22] fed only by percolation water.	9	cause	effect	1
+302	[E11] fault [E12] - a [E21] fracture [E22] separating two parts of a once continuous cock body with relative movement along the fault plane. along the fault plane	13	entity	origin	1
+303	[E11] fault cave [E12] - a [E21] cave [E22] developed along a fault or fault zone, either by movement of the fault or by preferential solution along it.	9	cause	effect	1
+303	[E11] fault cave [E12] - a [E21] cave [E22] developed along a fault or fault zone, either by movement of the fault or by preferential solution along it.	13	entity	origin	1
+304	[E11] fault plane [E12] - a [E21] plane [E22] along which movement of a fault has taken place.	9	cause	effect	1
+306	[E11] flowstone [E12] - a [E21] deposit [E22] formed from thin films or trickles of water over floors or walls, usually of calcite. cf. travertine.	9	cause	effect	1
+306	[E11] flowstone [E12] - a [E21] deposit [E22] formed from thin films or trickles of water over floors or walls, usually of calcite. cf. travertine.	13	entity	origin	1
+308	[E11] glacier cave [E12] - a [E21] cave [E22] formed within or beneath a glacier.	13	entity	origin	1
+309	[E11] grike [E12] - a deep, narrow, vertical or steeply inclined rectilinear [E21] slot in a rock outcrop [E22] as a result of solution along a joint.	13	entity	origin	1
+309	[E11] grike [E12] - a deep, narrow, vertical or steeply inclined rectilinear [E21] slot in a rock outcrop [E22] as a result of solution along a joint.	9	cause	effect	1
+310	[E11] gypsum flower [E12] - an elongated and curving [E21] deposit of gypsum [E22] on a cave surface.	13	entity	origin	1
+311	[E11] half-blind valley [E12] - a [E21] blind valley [E22] which overflows its threshold when the streamsink cannot accept all the water at a time of flood.	9	cause	effect	1
+312	[E11] half-tube [E12] - a semi-eylindrical, elongate [E21] recess [E22] in a cave surface, often meandering or anastomosing.	13	entity	origin	1
+317	[E11] karren [E12] - [E21] the minor forms of karst [E22] as a result of solution of rock on the surface or underground.	9	cause	effect	1
+317	[E11] karren [E12] - [E21] the minor forms of karst [E22] as a result of solution of rock on the surface or underground.	13	entity	origin	1
+318	[E11] karst [E12] - [E21] tereain [E22] with special landforms and drainage characteristics on account of greater solubility of certain rocks in natural waters than is common.	9	cause	effect	1
+320	[E11] keyhole [E12] - a small [E21] passage or opening [E22] in a cave, which is round above and narrow below.	13	entity	origin	1
+321	[E11] lava-cave [E12] - a [E21] cave [E22] in a lava flow; usually a tube or tunnel formed by flow of liquid lava through a solidified mass, or by roofing of an open channel of flowing lava.	9	cause	effect	1
+321	[E11] lava-cave [E12] - a [E21] cave [E22] in a lava flow; usually a tube or tunnel formed by flow of liquid lava through a solidified mass, or by roofing of an open channel of flowing lava.	13	entity	origin	1
+324	[E11] meander niche [E12] - a hemispherically roofed [E21] part of a cave [E22] formed by a stream meandering and cutting down at the same time.	9	cause	effect	1
+326	[E11] natural arch [E12] - an [E21] arch of rock [E22] formed by weathering.	9	cause	effect	1
+327	[E11] natural bridge [E12] - a [E21] bridge [E22] of rock spanning a ravine or valley and formed by erosive agents.	9	cause	effect	1
+328	[E11] outflow cave [E12] - a [E21] cave [E22] from which a stream flows or formerly did so and which cannot be followed upstream to the surface.	9	cause	effect	1
+329	[E11] palaeokarst [E12] ' fossil ' karst ' - cave or karst [E21] features [E22] remnant from a previous period of karstification, characterized by the presence of ancient (buried) deposits, as lithified cave fills or breccias.	9	cause	effect	1
+330	[E11] pendulite [E12] - a kind of [E21] stalactite [E22] which has been partly submerged and the submerged part covered with dog-tooth spar to give the appearance of a drumstick.	9	cause	effect	1
+331	[E11] percolation water [E12] - [E21] water [E22] moving mainly downwards through pores, cracks and tight fissures, in the vadose zone.	13	entity	origin	1
+332	[E11] phreatic water [E12] - [E21] water [E22] below the level at which all voids in the rock are completely filled with water.	13	entity	origin	1
+333	[E11] phreatic zone [E12] - [E21] zone [E22] where voids in the rock are completely filled with water.	13	entity	origin	1
+334	[E11] pillar [E12] - a [E21] bedrock column [E22] from roof to floor left by the removal of surrounding rock.	9	cause	effect	1
+335	[E11] pipe [E12] - a tubular [E21] cavity [E22] projecting as much as several metres down from the surface into ' karst rocks and often filled with earth, sand, gravel, breccia, etc. projecting as much as several metres down from the surface	13	entity	origin	1
+336	[E11] plunge pool [E12] - a [E21] swirlhole [E22], generally of large size, occurring at the foot of a waterfall or rapid, on the surface or underground.	13	entity	origin	1
+337	[E11] polje [E12] - a large [E21] closed depression [E22] draining underground, with a flat floor across which there may be an intermittent or perennial stream and which may be liable to flood and become a lake. the floor makes a sharp break with parts of surrounding slopes. depression stream	9	cause	effect	1
+340	[E11] pseudokarst [E12] - [E21] terrain [E22] with landforms which resemble those of karst but which are not the producer of karst processes.	9	cause	effect	1
+341	[E11] relict karst [E12] - old [E21] cave forms [E22] produced by earlier geomorphic processes within the present cycle of karstification and open to modification by present-day processes such as deposition of speleothems, sediments or skeletal deposits.	9	cause	effect	1
+342	[E11] resurgence [E12] - a [E21] spring [E22] where a stream, which has a course on the surface higher up, reappears at the surface.	13	entity	origin	1
+343	[E11] salt weathering [E12] - [E21] detachment of particles [E22] of various sizes from a rock surface by the growth of crystals from salt solutions.	9	cause	effect	1
+344	[E11] sea cave [E12] - a [E21] cave [E22] in present-day or emerged sea diffs, formed by wave attack or solution.	9	cause	effect	1
+350	[E11] solution flute [E12] - a [E21] solution hollow [E22] running down the maximum slope of the rock, of uniform fingertip width and depth, with sharp ribs between it and its neighbours.	13	entity	origin	1
+351	[E11] solution pan [E12] - a dish-shaped [E21] depression [E22] on flatfish rock; its sides may overhang and carry solution flutes. its bottom may have a cover of organic remains, silt, clay or rock fragments.	13	entity	origin	1
+352	[E11] solution runnel [E12] - a [E21] solution hollow [E22] running down the maximum slope of the rock, larger than a solution flute and increasing in depth and width down its length.	13	entity	origin	1
+353	[E11] speleogen [E12] - a [E21] cave feature [E22] formed erosionally or by weathering in cave enlargement, such as current markings (cf. scallop) or rock pendants.	9	cause	effect	1
+353	[E11] speleogen [E12] - a [E21] cave feature [E22] formed erosionally or by weathering in cave enlargement, such as current markings (cf. scallop) or rock pendants.	13	entity	origin	1
+354	[E11] speleothem [E12] - a secondary [E21] mineral deposit [E22] formed in caves, most commonly calcite.	13	entity	origin	1
+355	[E11] splash cup [E12] - a [E21] shallow cavity [E22] in the top of a stalagmite.	13	entity	origin	1
+357	[E11] stalagmite [E12] - [E21] a speleothem [E22] projecting vertically upwards from a cave floor and formed by precipitation from drips.	9	cause	effect	1
+359	[E11] subjacent karst [E12] - [E21] karst [E22] developed in soluble beds underlying other rock formations; the surface mayor may not be affected by the karst development.	13	entity	origin	1
+361	[E11] tafoni [E12] - roughly hemispherical [E21] hollows [E22] weathered in rock either at the surface or in caves.	13	entity	origin	1
+361	[E11] tafoni [E12] - roughly hemispherical [E21] hollows [E22] weathered in rock either at the surface or in caves.	9	cause	effect	1
+364	[E11] travertine [E12] - compact calcium carbonate [E21] deposit [E22], often banded, precipitated from spring, river or lake water. cf. tufa.	9	cause	effect	1
+366	[E11] tufa [E12] - spongy or vesicular [E21] calcium carbonate [E22] deposited from spring, river or lake waters.	9	cause	effect	1
+367	[E11] twilight zone [E12] - the part of a [E21] cave [E22] to which daylight penetrates.	13	entity	origin	1
+369	[E11] vadose zone [E12] - the [E21] zone [E22] where voids in the rock are partly filled with air and through which water descends under gravity.	13	entity	origin	1
+371	[E11] well [E12] - a deep rounded [E21] hole [E22] in a cave floor or on the surface in karst.	13	entity	origin	1
+376	[E11] apron [E12]: a smooth bulging [E21] mass of flowstone [E22] covering sloping projections from walls of caves or limestone cliffs.	13	entity	origin	1
+381	[E11] backflooding [E12]: temporarily [E21] rising water level [E22] in a cave caused downstream passage being too small to pass an abnormally high discharge. the excavation and reexcavation of some caves is ascribed to the enlarger'ent of a passage at or near the water table by gravity flow alternating with periods of calcite precipitation.	9	cause	effect	1
+381	[E11] backflooding [E12]: temporarily [E21] rising water level [E22] in a cave caused downstream passage being too small to pass an abnormally high discharge. the excavation and reexcavation of some caves is ascribed to the enlarger'ent of a passage at or near the water table by gravity flow alternating with periods of calcite precipitation.	13	entity	origin	1
+382	[E11] bacon [E12]: thin, elongated, translucent [E21] flowstone [E22] having parallel colored bands on or projecting from roofs and walls of some caves. see also blanket; curtain; drapery.	13	entity	origin	1
+383	[E11] balcony [E12]: any [E21] projection on the wall [E22] of a cave large enough to support one or more persons.	13	entity	origin	1
+384	[E11] bedding-plane cave [E12]: a [E21] passage [E22] formed along a bedding plane, especially when there is a difference in susceptibility to corrosion in the two beds.	9	cause	effect	1
+384	[E11] bedding-plane cave [E12]: a [E21] passage [E22] formed along a bedding plane, especially when there is a difference in susceptibility to corrosion in the two beds.	13	entity	origin	1
+385	[E11] blade [E12]: in a cave, a thin sharp [E21] projection [E22] jutting out from roof, wall, or floor, of which it is an integral part; generally the remains of a partition or bridge.	13	entity	origin	1
+385	[E11] blade [E12]: in a cave, a thin sharp [E21] projection [E22] jutting out from roof, wall, or floor, of which it is an integral part; generally the remains of a partition or bridge.	9	cause	effect	1
+387	[E11] blind valley [E12]: a [E21] valley [E22] that ends suddenly at the point where its stream disappears underground; some blind valleys have no present-day streams. see also half-blind valley; marginal polje.	13	entity	origin	1
+388	[E11] blowhole [E12]: a [E21] hole [E22] on land near the shore through which air and water are forced by incoming waves.	13	entity	origin	1
+391	[E11] blue hole [E12]: a drowned solution [E21] sinkhole [E22].	13	entity	origin	1
+394	botryoid: a grapelike [E11] deposit of calcium carbonate [E12] generally found on walls of caves. synonyms, clusterite; [E21] grape formation [E22].	14	origin	entity	2
+395	botryoid: a grapelike [E11] deposit of calcium carbonate [E12] generally found on walls of caves. synonyms, [E21] clusterite [E22]; grape formation.	14	origin	entity	2
+396	[E11] botryoid [E12]: a grapelike [E21] deposit of calcium carbonate [E22] generally found on walls of caves. synonyms, clusterite; grape formation.	13	entity	origin	1
+397	[E11] bourne [E12]: intermittent [E21] stream [E22] in a normally dry valley in chalk country.	13	entity	origin	1
+398	[E11] boxwork [E12]: network of [E21] thin blades [E22] of calcite or gypsum etched out in relief on the limestone walls and ceiling of a cave.	13	entity	origin	1
+399	[E11] bridge [E12]: in a cave, a residual [E21] rock span [E22] across a passage. see also natural bridge	13	entity	origin	1
+400	[E11] buried karst [E12]: [E21] karst topography [E22] buried by younger sediments. see also covered karst; paleokarst.	9	cause	effect	1
+403	[E11] calcite [E12]: a [E21] mineral [E22] composed of calcium carbonate, cacos, like aragonite but differing in crystal form; the principal constituent of limestone.	9	cause	effect	1
+404	[E11] calcite bubble [E12]: a hollow [E21] sphere [E22] formed by the deposition of calcite around a gas bubble; the interior is smooth, and the exterior consists of small jagged crystals.	9	cause	effect	1
+405	[E11] canopy [E12]: a compound [E21] cave formation [E22] consisting of flowstone hanging from a sloping wall projection and forming a fringe of shawls or stalactites on the outer edge.	13	entity	origin	1
+406	[E11] canyon [E12]: a [E21] valley [E22] formed by collapse of the roof of a long fairly straight cave; a karst valley.	9	cause	effect	1
+407	[E11] capillary stalagmite [E12]: hollow [E21] stalagmite [E22] formed by saturated karst water pushed up through capillaries and small cracks in a sinter crust; covering permeable fluvial deposits on the floor of a cave; first reported from cuba, where such stalagmites are composed of aragonite.	13	entity	origin	1
+407	[E11] capillary stalagmite [E12]: hollow [E21] stalagmite [E22] formed by saturated karst water pushed up through capillaries and small cracks in a sinter crust; covering permeable fluvial deposits on the floor of a cave; first reported from cuba, where such stalagmites are composed of aragonite.	9	cause	effect	1
+409	[E11] cave [E12]: a natural underground [E21] room [E22] or series of rooms and passages large enough to be entered by a man; generally formed by solution of limestone.	9	cause	effect	1
+409	[E11] cave [E12]: a natural underground [E21] room [E22] or series of rooms and passages large enough to be entered by a man; generally formed by solution of limestone.	13	entity	origin	1
+410	[E11] cave breakdown [E12]: [E21] enlargement [E22] of parts of a cave system by fall of rock masses from walls and ceiling.	9	cause	effect	1
+411	[E11] cave breakdown [E12]: [E21] heaps of rock [E22] that have collapsed from the walls and ceiling of a cave, generally called cave breccia.	9	cause	effect	1
+412	[E11] cave breccia [E12]: angular [E21] fragments of rock [E22] forming a fill in a cave, either cemented together by dripstone or in a matrix of cave earth. see also solution breccia. in a cave	9	cause	effect	1
+412	[E11] cave breccia [E12]: angular [E21] fragments of rock [E22] forming a fill in a cave, either cemented together by dripstone or in a matrix of cave earth. see also solution breccia. in a cave	13	entity	origin	1
+415	cave flower: an elongate curved [E11] deposit [E12] of gypsum or epsomite on a cave wall in which growth occurs at the attached end. synonyms, gypsum flower; [E21] oulo - pholite [E22].	14	origin	entity	2
+416	[E11] cave flower [E12]: an elongate curved [E21] deposit [E22] of gypsum or epsomite on a cave wall in which growth occurs at the attached end. synonyms, gypsum flower; oulo - pholite.	13	entity	origin	1
+417	cave flower: an elongate curved [E11] deposit [E12] of gypsum or epsomite on a cave wall in which growth occurs at the attached end. synonyms, [E21] gypsum flower [E22]; oulo - pholite.	14	origin	entity	2
+418	[E11] cave formation [E12]: secondary mineral [E21] deposit [E22] formed by the accumulation, dripping, or flowing of water in a cave. see also speleothem.	9	cause	effect	1
+418	[E11] cave formation [E12]: secondary mineral [E21] deposit [E22] formed by the accumulation, dripping, or flowing of water in a cave. see also speleothem.	13	entity	origin	1
+420	[E11] cave ice [E12]: [E21] ice [E22] formed in a cave by natural freezing of water. loosely but incorrectly applied to calcium carbonate dripstone and flowstone. in a cave	9	cause	effect	1
+420	[E11] cave ice [E12]: [E21] ice [E22] formed in a cave by natural freezing of water. loosely but incorrectly applied to calcium carbonate dripstone and flowstone. in a cave	13	entity	origin	1
+422	[E11] cave pearl [E12]: small [E21] concretion [E22] of calcite or aragonite formed by concentric precipitation around a nucleus. synonyms, pisolite, pisolith.	9	cause	effect	1
+423	cave pearl: small [E11] concretion [E12] of calcite or aragonite formed by concentric precipitation around a nucleus. synonyms, [E21] pisolite [E22], pisolith.	10	effect	cause	2
+424	cave pearl: small [E11] concretion [E12] of calcite or aragonite formed by concentric precipitation around a nucleus. synonyms, pisolite, [E21] pisolith [E22].	10	effect	cause	2
+425	[E11] cave series [E12]: a [E21] group of caves [E22] of similar morphology in a particular district. see also cave group.	13	entity	origin	1
+426	[E11] cave spring [E12]: a [E21] spring [E22] rising in a cave, cave system.	13	entity	origin	1
+429	[E11] ceiling cavity [E12]: solutional [E21] concavity [E22] in the ceiling of a cave. the orientation is determined by joints or a bedding plane.	9	cause	effect	1
+429	[E11] ceiling cavity [E12]: solutional [E21] concavity [E22] in the ceiling of a cave. the orientation is determined by joints or a bedding plane.	13	entity	origin	1
+430	ceiling slab, [E11] roof slab [E12]: a thin but extensive [E21] piece of rock [E22] that has fallen from the ceiling of a cave in roughly horizontal limestone. see also cave breakdown; ceiling block.	9	cause	effect	1
+431	[E11] ceiling slab [E12], roof slab: a thin but extensive [E21] piece of rock [E22] that has fallen from the ceiling of a cave in roughly horizontal limestone. see also cave breakdown; ceiling block.	9	cause	effect	1
+432	[E11] ceiling tube [E12]: a half [E21] tube [E22] remaining in the ceiling of a cave.	13	entity	origin	1
+433	[E11] cenote [E12]: steep-walled natural [E21] well [E22] that extends below the water tabl?; generally caused by collapse of a cave roof. term used only for features in yucatan. see also natural well.	13	entity	origin	1
+433	[E11] cenote [E12]: steep-walled natural [E21] well [E22] that extends below the water tabl?; generally caused by collapse of a cave roof. term used only for features in yucatan. see also natural well.	9	cause	effect	1
+434	[E11] chalk [E12]: soft poorly indurated [E21] limestone [E22], generally light in color; commonly composed of the tests of floating microorganisms in a matrix of verv finely crystalline calcite.	13	entity	origin	1
+435	[E11] chamber [E12]: the largest order of [E21] cavity [E22] in a cave or cave system; it has considerable length and breadth but not necessarily great height.	13	entity	origin	1
+436	[E11] chasm [E12]: a deep, fairly narrow [E21] breach [E22] in the earth's surface; an abyss; a gorge; a deep canyon.	13	entity	origin	1
+437	[E11] chimney [E12]: a narrow vertical [E21] shaft [E22] in the roof of a cave, generally smaller than an aven; a dome pit.	13	entity	origin	1
+438	[E11] chockstone [E12]: a [E21] rock [E22] wedged between the walls of a cave passage.	13	entity	origin	1
+440	[E11] chute [E12]: an inclined [E21] channel [E22] or trough in a cave.	13	entity	origin	1
+442	clint: [E11] slabs [E12] of limestone, parallel to the bedding, forming a pavement. widened joints, or grikes, isolate individual clints. synonym, [E21] flachkarren [E22].	14	origin	entity	2
+443	[E11] clint [E12]: [E21] slabs [E22] of limestone, parallel to the bedding, forming a pavement. widened joints, or grikes, isolate individual clints. synonym, flachkarren.	13	entity	origin	1
+445	[E11] cockpit [E12]: a star-shaped [E21] depression [E22] having a conical or slightly concave floor. the surrounding hill slopes are steep and convex. cockpits are the common type of closed depressions in a kegelkarst.	13	entity	origin	1
+446	[E11] cockpit karst [E12]: tropical [E21] karst topography [E22] containing many closed depressions surrounded by conical hills. divided by french and german geographers into several types depending on shape of hills. see also cone karst; halbkugel - karst; kegelkarst; spitzkegelkarst; tower karst.	13	entity	origin	1
+447	[E11] collapse breccia [E12]: a [E21] mass of rock [E22] composed of angular to rounded fragments of limestone or dolomite that has formed as the result of the collapse of the roof of a cave, of an underlying cave, or of an overhanging ledge. see also solution breccia.	9	cause	effect	1
+448	[E11] collapse sink [E12]: a [E21] closed depression [E22] formed by the collapse of tie roof of a cave. see also doline.	9	cause	effect	1
+449	[E11] conduit [E12]: a subterranean [E21] stream course [E22] filled completely with water and always under hydrostatic pressure. see also siphon.	13	entity	origin	1
+450	[E11] cone karst [E12]: a type of [E21] karst topography [E22], common in the tropicr. characterized by star-shaped depressions at the feet of many steep-sided core-shaped hills. a variety of kegelkarst. see also cockpit karst.	13	entity	origin	1
+451	[E11] constructive waterfall [E12]: a large rimstone [E21] dam [E22] on a surface stream. dam	13	entity	origin	1
+452	[E11] conulite [E12]: a hollow, cone-shaped [E21] speleothem [E22] formed when a conical depression is drilled in cave mud by falling water. subsequent erosion may remove the mud, isolating the calcite lining of the depression. calcite	9	cause	effect	1
+453	[E11] corridor [E12]: a fairly level and straight [E21] passage [E22] that links two or more rooms or chambers in a cave. in a cave	13	entity	origin	1
+454	[E11] corrosion [E12]: [E21] erosion [E22] by solution or chemical action. see also corrasion.	9	cause	effect	1
+455	corrosion: [E11] erosion [E12] by solution or chemical action. see also [E21] corrasion [E22].	10	effect	cause	2
+456	[E11] cove [E12]: narrow steep-sided [E21] karst valley [E22] flanking limestone plateaus. limestone plateaus	13	entity	origin	1
+459	[E11] crust stone [E12]: a fragile layer of [E21] flowstone [E22] covering portions of walls of caves; looks like a flaky crust. found in some kentucky caves.	13	entity	origin	1
+461	[E11] crystal pool [E12]: in caves a [E21] pool [E22], generally having little or no overflow, containing crystals.	13	entity	origin	1
+462	cul-de-sac, [E11] dead end [E12]: a subterranean [E21] passage [E22] having only one entry.	13	entity	origin	1
+463	[E11] cul-de-sac [E12], dead end: a subterranean [E21] passage [E22] having only one entry.	13	entity	origin	1
+467	[E11] current marking [E12]: shallow asymmetrical [E21] hollows [E22], caused by turbulent waterflow, that are distributed in rather regular fashion over limestone surfaces. see also scallop.	13	entity	origin	1
+467	[E11] current marking [E12]: shallow asymmetrical [E21] hollows [E22], caused by turbulent waterflow, that are distributed in rather regular fashion over limestone surfaces. see also scallop.	9	cause	effect	1
+468	current marking: shallow asymmetrical [E11] hollows [E12], caused by turbulent waterflow, that are distributed in rather regular fashion over limestone surfaces. see also [E21] scallop [E22].	14	origin	entity	2
+468	current marking: shallow asymmetrical [E11] hollows [E12], caused by turbulent waterflow, that are distributed in rather regular fashion over limestone surfaces. see also [E21] scallop [E22].	10	effect	cause	2
+469	cutter: a karren-like [E11] groove [E12] formed beneath the soil, more commonly referred to as [E21] subsoil karren [E22]. see also karren.	14	origin	entity	2
+470	[E11] cutter [E12]: a karren-like [E21] groove [E22] formed beneath the soil, more commonly referred to as subsoil karren. see also karren.	13	entity	origin	1
+471	cutter: a [E11] karren [E12]-like [E21] groove [E22] formed beneath the soil, more commonly referred to as subsoil karren. see also karren.	13	entity	origin	1
+472	[E11] dead cave [E12]: a dry [E21] cave [E22] in which all solution and precipitation has cersed.	9	cause	effect	1
+473	[E11] doline [E12]: a basin - or funnel-shaped [E21] hollow [E22] in limestone, ranging in diameter from a few meters to a kilometer and in depth from a few to several hundred meters. some dolines are gentle grassy hollows; others are rocky cliff-bounded basins. a distinction may be made between those formed mainly by direct solution of the limestone surface zone, solution dolines, and those formed by collapse over a cave, collapse dolines, but it is generally not possible to establish the origin of individual examples.	9	cause	effect	1
+474	[E11] doline lake [E12]: a small [E21] karst lake [E22] occupying a doline.	13	entity	origin	1
+478	[E11] dolomitization [E12]: the [E21] process [E22] whereby limestone becomes dolomite by the substitution of magnesium carbonate for part of the original calcium carbonate.	9	cause	effect	1
+479	[E11] driphole [E12]: [E21] hole [E22] in rock or clay produced by fast-dripping water.	9	cause	effect	1
+480	[E11] driphole [E12]: [E21] hollow space [E22] surrounded by precipitated material, such as the bottom of a stalactite. space	13	entity	origin	1
+483	epiphreas, [E11] epiphreatic zone [E12]: the [E21] zone [E22] in a cave system, immediately above the phreatic zone, affected morphologically and hydrologically by floods too large for the cave to absort at once.	9	cause	effect	1
+483	epiphreas, [E11] epiphreatic zone [E12]: the [E21] zone [E22] in a cave system, immediately above the phreatic zone, affected morphologically and hydrologically by floods too large for the cave to absort at once.	13	entity	origin	1
+484	[E11] epiphreas [E12], epiphreatic [E21] zone [E22]: the zone in a cave system, immediately above the phreatic zone, affected morphologically and hydrologically by floods too large for the cave to absort at once.	9	cause	effect	1
+484	[E11] epiphreas [E12], epiphreatic [E21] zone [E22]: the zone in a cave system, immediately above the phreatic zone, affected morphologically and hydrologically by floods too large for the cave to absort at once.	13	entity	origin	1
+485	[E11] exhumed karst [E12]: [E21] karst [E22] features reexposed by erosion from bene? th former covering strata.	9	cause	effect	1
+486	[E11] fault cave [E12]: a [E21] cave [E22] developed along a fault or fault zone.	13	entity	origin	1
+487	[E11] fissure cave [E12]: a narrow vertical [E21] cave [E22] or cave passage along a fissure. fissures widen out to become wells or shaft caves.	13	entity	origin	1
+490	[E11] floe calcite [E12]: very thin film of pure [E21] calcium carbonate [E22] floating on the surface of a subterranean pool of very calm water. thin film	13	entity	origin	1
+491	[E11] flowstone [E12]: [E21] deposits [E22] of calcium carbonate, gypsum, and other mineral matter which have accumulated on the walls or floors of caves at places where water trickles or flows over the rock. see also dripstone.	9	cause	effect	1
+492	[E11] fluviokarst [E12]: a predominantly [E21] karst [E22] landscape in which there is much evidence of past or present fluvial activity.	9	cause	effect	1
+494	[E11] foiba [E12]: a natural [E21] vertical shaft [E22] in soluble rock, tending toward cylindrical shape; it may or may not reach the surface. a dome pit.	13	entity	origin	1
+495	[E11] fungling [E12]: isolated limestone [E21] hill [E22] in alluvial plain, probably similar to mogote.	13	entity	origin	1
+496	[E11] gallery [E12]: a rather large, nearly [E21] horizontal passage [E22] in a cave.	13	entity	origin	1
+499	[E11] grike [E12], gryke: a vertical or subvertical [E21] fissure [E22] in a limestone pavement developed by solution along a joint. synonym: kluftkarren.	13	entity	origin	1
+499	[E11] grike [E12], gryke: a vertical or subvertical [E21] fissure [E22] in a limestone pavement developed by solution along a joint. synonym: kluftkarren.	9	cause	effect	1
+500	grike, gryke: a vertical or subvertical [E11] fissure [E12] in a limestone pavement developed by solution along a joint. synonym: [E21] kluftkarren [E22].	14	origin	entity	2
+500	grike, gryke: a vertical or subvertical [E11] fissure [E12] in a limestone pavement developed by solution along a joint. synonym: [E21] kluftkarren [E22].	10	effect	cause	2
+501	grike, [E11] gryke [E12]: a vertical or subvertical [E21] fissure [E22] in a limestone pavement developed by solution along a joint. synonym: kluftkarren.	13	entity	origin	1
+501	grike, [E11] gryke [E12]: a vertical or subvertical [E21] fissure [E22] in a limestone pavement developed by solution along a joint. synonym: kluftkarren.	9	cause	effect	1
+502	[E11] grotto [E12]: a small [E21] cave [E22], natural or artificial.	9	cause	effect	1
+503	[E11] grotto [E12]: a [E21] room [E22], in a cave system, of moderate dimensions but richly decorated.	13	entity	origin	1
+508	[E11] half-blind valley [E12]: blind [E21] valley [E22] in which the stream overflows in floodtirae when the swallow hole can not accep t all the water.	9	cause	effect	1
+509	[E11] hall [E12]: in a cave, a lofty [E21] chamber [E22] which is much longer than it is wide.	13	entity	origin	1
+511	[E11] haystack hill [E12]: in the tropics, rounded conical [E21] hill [E22] of limestone developed as a result of solution. term being replaced by mogote.	13	entity	origin	1
+511	[E11] haystack hill [E12]: in the tropics, rounded conical [E21] hill [E22] of limestone developed as a result of solution. term being replaced by mogote.	9	cause	effect	1
+512	haystack [E11] hill [E12]: in the tropics, rounded conical hill of limestone developed as a result of solution. term being replaced by [E21] mogote [E22].	14	origin	entity	2
+512	haystack [E11] hill [E12]: in the tropics, rounded conical hill of limestone developed as a result of solution. term being replaced by [E21] mogote [E22].	10	effect	cause	2
+513	[E11] heligmite [E12]: an eccentric growing upward from a cave floor or from a shelf in a cave. a curved or angular thin [E21] stalagmite [E22].	13	entity	origin	1
+514	[E11] holokarst [E12]: cvijić's term for a [E21] karst [E22] area like that of the dinaric karst of slovenia. such areas have bare surfaces on thick deposits of limestone that extend below sea level, well-developed karren, dolines, uvalas, poljes, deep ponors, and extensive cave systems; they have little or no surface drainage.	13	entity	origin	1
+515	hum: [E11] karst inselberg [E12]. residual [E21] hill [E22] of limestone on a fairly level floor, such as the isolated hills of limestone in poljes. in some tropical areas, used loosely as synonym for mogote.	13	entity	origin	1
+516	hum: karst inselberg. residual [E11] hill [E12] of limestone on a fairly level floor, such as the isolated hills of limestone in poljes. in some tropical areas, used loosely as synonym for [E21] mogote [E22].	14	origin	entity	2
+517	[E11] hum [E12]: karst inselberg. residual [E21] hill [E22] of limestone on a fairly level floor, such as the isolated hills of limestone in poljes. in some tropical areas, used loosely as synonym for mogote.	13	entity	origin	1
+523	[E11] joint-plane cave [E12]: a [E21] cavity [E22] high in relation to width developed along steeply dipping joint planes.	13	entity	origin	1
+526	[E11] kluftkarren [E12]: type of [E21] karren [E22]; joints enlarged by solution.	9	cause	effect	1
+527	[E11] spitzkarren [E12]: type of [E21] karren [E22], large deep grooves extending down from steep spires or pinnacles.	13	entity	origin	1
+529	[E11] rundkarren [E12]: [E21] karren [E22] having rounded channels and intervening rounded ridges, probably reexhumed after formation under soil or peat.	9	cause	effect	1
+530	[E11] bodenkarren [E12]: [E21] karren [E22] formed beneath the soil. synonym, lapils.	13	entity	origin	1
+531	[E11] karst [E12]: a [E21] terrain [E22], generally underlain by limestone, in which the topography is chiefly formed by the dissolving of rock, and which is commonly characterized by karren, closed depressions, subterranean drainage, and caves. see also buried karst; cone karst; covered karst; exhumed karst; halbkugelkarst; holokarst; kegel - karst; merokarst; microkarst; naked karst; paleokarst; pseudokarst; spitz - kegelkarst; subjacent karst; syngenetic karst; thermokarst; tower karst.	9	cause	effect	1
+534	[E11] karst pond [E12]: [E21] closed depression [E22] in a karst area containing standing water.	13	entity	origin	1
+535	[E11] karst river [E12]: a [E21] river [E22] that originates from a karst spring.	9	cause	effect	1
+536	[E11] karst spring [E12]: a [E21] spring [E22] emerging from karstified limestone.	13	entity	origin	1
+537	[E11] karst topography [E12]: [E21] topography [E22] dominated by features of solutional origin.	9	cause	effect	1
+538	[E11] karst valley [E12]: elongate solution [E21] valley [E22].	9	cause	effect	1
+539	[E11] karst valley [E12]: [E21] valley [E22] produced by collapse of a cavern roof.	9	cause	effect	1
+542	[E11] karstification [E12]: [E21] action [E22] by water, mainly chemical but also mechanical, that produces features of a karst topography, including such surface features as dolines, karren, and mogotes and such subsurface features as caves and shafts.	9	cause	effect	1
+542	[E11] karstification [E12]: [E21] action [E22] by water, mainly chemical but also mechanical, that produces features of a karst topography, including such surface features as dolines, karren, and mogotes and such subsurface features as caves and shafts.	9	cause	effect	1
+545	[E11] keyhole [E12]: a small [E21] passage [E22] or opening in a cave; in cross section, rounded at the top, constricted in the middle, and rectangular or flared out below.	13	entity	origin	1
+548	[E11] limestone [E12]: a sedimentary [E21] rock [E22] consisting chiefly of calcium carbonate, caco	9	cause	effect	1
+549	[E11] limestone pavement [E12]: a bare plane [E21] surface [E22] of limestone, parallel to the bedding, commonly divided into blocks by solutionally widened joints, and pitted by solution pans.	13	entity	origin	1
+552	[E11] lost river [E12]: in a karst region, a [E21] surface stream [E22] that enters an underground course.	13	entity	origin	1
+553	[E11] lycopodium spores [E12]: [E21] spores [E22] of lycopodium claratum, which can be used in natural or dyed color as a label in studying ground-water movement in karst areas.	13	entity	origin	1
+554	[E11] meander [E12]: in a cave, an arcuate [E21] curve [E22] in a channel formed by lateral shifting of a cave stream. see ceiling meander; meander niche.	9	cause	effect	1
+554	[E11] meander [E12]: in a cave, an arcuate [E21] curve [E22] in a channel formed by lateral shifting of a cave stream. see ceiling meander; meander niche.	13	entity	origin	1
+564	[E11] natural bridge [E12]: a rock [E21] bridge [E22] spanning a ravine and not yet eroded away.	9	cause	effect	1
+569	[E11] pepino hill [E12]: rounded or conical-shaped [E21] hill [E22] resulting from tropical humid karst action. term generally replaced in puerto rico by mogote.	9	cause	effect	1
+570	phreas, [E11] phreatic water [E12]: [E21] water [E22] in the zone of saturation; water below the water table.	13	entity	origin	1
+571	[E11] phreas [E12], phreatic water: [E21] water [E22] in the zone of saturation; water below the water table.	13	entity	origin	1
+576	[E11] pocket [E12]: solution [E21] cavity [E22] in ceiling, floor, or walls of a cave, shaped like the interior of a round-bottomed kettle; unrelated to joints or bedding.	9	cause	effect	1
+576	[E11] pocket [E12]: solution [E21] cavity [E22] in ceiling, floor, or walls of a cave, shaped like the interior of a round-bottomed kettle; unrelated to joints or bedding.	13	entity	origin	1
+577	polje: in areas of karst topography, a very large [E11] closed depression [E12], in some places several kilometers long and wide, having a flat floor either of bare limestone or covered by alluvium, and surrounded by generally steep walls of limestone. synonym: [E21] interior valley [E22].	14	origin	entity	2
+578	[E11] polje [E12]: in areas of karst topography, a very large [E21] closed depression [E22], in some places several kilometers long and wide, having a flat floor either of bare limestone or covered by alluvium, and surrounded by generally steep walls of limestone. synonym: interior valley.	13	entity	origin	1
+579	[E11] polygonal karst [E12]: a [E21] karst area [E22] where the surface is completely pitted with closed depressions, the divides of which form a crudely polygonal network. especially common in humid tropical cone-karst terrain, but also found in well-formed temperate doline-karst terrain.	13	entity	origin	1
+580	[E11] ponor [E12]: [E21] hole [E22] in the bottom or side of a closed depression through which water passes to or from an underground channel. compare swallet, swallow hole.	13	entity	origin	1
+581	[E11] pool deposit [E12]: [E21] crystalline material [E22] deposited in an isolated pool in a cave.	13	entity	origin	1
+582	[E11] pore deposit [E12]: [E21] mineral matter [E22] deposited on the interior of a cave from water entering the cave so slowly through pores and cracks that it does not form drops.	9	cause	effect	1
+582	[E11] pore deposit [E12]: [E21] mineral matter [E22] deposited on the interior of a cave from water entering the cave so slowly through pores and cracks that it does not form drops.	13	entity	origin	1
+583	[E11] porthole [E12]: a nearly circular natural [E21] opening [E22] in a thin rock wall in a cave. see also window.	9	cause	effect	1
+583	[E11] porthole [E12]: a nearly circular natural [E21] opening [E22] in a thin rock wall in a cave. see also window.	13	entity	origin	1
+585	[E11] resurgence [E12]: [E21] point [E22] at which an underground stream reaches the surface and becomes a surface stream. in european literature, the term is reserved for the reemergence of a stream that has earlier sunk upstream; the term exsurgence is applied to a stream without known surface headwaters.	13	entity	origin	1
+586	[E11] rift [E12]: a long narrow high [E21] cave passage [E22] controlled by joints or faults.	9	cause	effect	1
+587	[E11] rill [E12]: small solution [E21] groove [E22] on surface exposures of limestone; most common in arid or semiarid areas.	9	cause	effect	1
+587	[E11] rill [E12]: small solution [E21] groove [E22] on surface exposures of limestone; most common in arid or semiarid areas.	13	entity	origin	1
+588	[E11] rimstone pool [E12]: [E21] pool [E22] kept in place by a rimstone dam.	9	cause	effect	1
+589	[E11] rise [E12]: [E21] spring [E22] rising from fractures in limestone. point at which an underground stream comes to the surface. in limestone	13	entity	origin	1
+590	[E11] rock pinnacle [E12]: a tall sharp [E21] projection of bedrock [E22] rising from the floor of a cave.	13	entity	origin	1
+591	[E11] rock shelter [E12]: shallow [E21] cave [E22] under an overhanging rock ledge. many sea caves are rock shelters. also found in limestone and other rock types where streams have undercut their banks at bends, or where there has been abrasion by blowing sand. common in tropical areas at places where a secondarily hardened layer of limestone forms a ledge that projects over unindurated limestone.	9	cause	effect	1
+591	[E11] rock shelter [E12]: shallow [E21] cave [E22] under an overhanging rock ledge. many sea caves are rock shelters. also found in limestone and other rock types where streams have undercut their banks at bends, or where there has been abrasion by blowing sand. common in tropical areas at places where a secondarily hardened layer of limestone forms a ledge that projects over unindurated limestone.	13	entity	origin	1
+592	[E11] roof crust [E12]: [E21] flowstone [E22] deposited on ceilings of caves from thin films of water, which have crept over the rock from pore or crack sources.	9	cause	effect	1
+592	[E11] roof crust [E12]: [E21] flowstone [E22] deposited on ceilings of caves from thin films of water, which have crept over the rock from pore or crack sources.	13	entity	origin	1
+595	[E11] sand stalagmite [E12]: a [E21] stalagmite [E22] formed on sand and made of calcite cemented sandstone.	13	entity	origin	1
+596	[E11] scaling plate [E12]: a small flat [E21] piece of rock [E22] of rectangular or polygonal shape, that has fallen to the floor of a cave. a form of cave breakdown in thin-tedded impure limestone cut by closely spaced joints.	9	cause	effect	1
+597	[E11] scallop [E12]: oval [E21] hollow [E22] having an asymmetric cross section along its main axis. scallops form patterns on tl e walls of caves and in streambeds and were used by bretz to determine direction of flow of turbulent water, since they are steeper on the upstream side. commonly called flutes in america.	13	entity	origin	1
+598	[E11] sea cave [E12]: a [E21] cave or cleft [E22] in a sea cliff eroded by waves or currerts or dissolved by water.	9	cause	effect	1
+598	[E11] sea cave [E12]: a [E21] cave or cleft [E22] in a sea cliff eroded by waves or currerts or dissolved by water.	13	entity	origin	1
+599	[E11] shaft [E12]: a vertical [E21] passage [E22] in a cave.	13	entity	origin	1
+600	shake, [E11] shakehole [E12]: term used mainly by cavers to indicate a [E21] doline [E22], especially one formed by subsidence.	9	cause	effect	1
+601	[E11] shake [E12], shakehole: term used mainly by cavers to indicate a [E21] doline [E22], especially one formed by subsidence.	9	cause	effect	1
+602	[E11] shawl [E12]: simple triangular-shaped [E21] curtain [E22], sheet. a thin coating of calcium carbonate formed on walls, shelves, benches, and terraces by trickling water.	13	entity	origin	1
+602	[E11] shawl [E12]: simple triangular-shaped [E21] curtain [E22], sheet. a thin coating of calcium carbonate formed on walls, shelves, benches, and terraces by trickling water.	9	cause	effect	1
+603	[E11] shield [E12]: a disk-shaped [E21] speleothem [E22] standing edgewise at a high angle.	13	entity	origin	1
+608	[E11] sinter [E12]: a [E21] mineral precipitate [E22] deposited by a mineral spring, either hot or cold. siliceous sinter, consisting of silica, is also called geyserite and fiorite; calcareous sinter, consisting of calcium carbonate, is also called tufa, travertine, and onyx marble.	9	cause	effect	1
+609	[E11] siphon [E12]: in speleology, a [E21] cave passage [E22] in which the ceiling dips below a water surface. water	13	entity	origin	1
+610	[E11] slump pit [E12]: a [E21] hollow [E22] in the clay fill of a cave floor caused by erosion beneath the fill.	9	cause	effect	1
+610	[E11] slump pit [E12]: a [E21] hollow [E22] in the clay fill of a cave floor caused by erosion beneath the fill.	13	entity	origin	1
+611	[E11] solution pan [E12]: shallow [E21] solution basin [E22] formed on bare limestone, generally characterized by flat bottom and overhanging sides. synonyms: kamenitza; opferkessel; panhole; tinajita.	9	cause	effect	1
+612	solution pan: shallow [E11] solution basin [E12] formed on bare limestone, generally characterized by flat bottom and overhanging sides. synonyms: kamenitza; opferkessel; panhole; [E21] tinajita [E22].	10	effect	cause	2
+613	solution pan: shallow [E11] solution basin [E12] formed on bare limestone, generally characterized by flat bottom and overhanging sides. synonyms: kamenitza; opferkessel; [E21] panhole [E22]; tinajita.	10	effect	cause	2
+614	solution pan: shallow [E11] solution basin [E12] formed on bare limestone, generally characterized by flat bottom and overhanging sides. synonyms: [E21] kamenitza [E22]; opferkessel; panhole; tinajita.	10	effect	cause	2
+615	solution pan: shallow [E11] solution basin [E12] formed on bare limestone, generally characterized by flat bottom and overhanging sides. synonyms: kamenitza; [E21] opferkessel [E22]; panhole; tinajita.	10	effect	cause	2
+616	[E11] solution pipe [E12]: a vertical cylindrical [E21] hole [E22] attributable to solution, often without surface expression, filled with debris, such as sand, clay, rock chips, and bones. synonym: sand pipe. see also geologic organ.	9	cause	effect	1
+618	[E11] speleogen [E12]: a secondary [E21] cave structure [E22] formed by dissolving, such as a dome pit or a scallop. cave	9	cause	effect	1
+620	[E11] speleothem [E12]: a secondary [E21] mineral deposit [E22] formed in caves, such as stalactite or stalagmite. synonym: cave formation.	13	entity	origin	1
+623	[E11] spring [E12]: any natural [E21] discharge of water [E22] from rock or soil onto the surface of the land or into a body of surface water.	13	entity	origin	1
+627	[E11] struga [E12]: a [E21] corridor [E22] formed along a bedding plane in karst country.	13	entity	origin	1
+628	[E11] subjacent karst [E12]: [E21] karst landscape [E22] in noncarbonate rocks due to presence of karstified rocks beneath the surface formation.	9	cause	effect	1
+629	[E11] submarine spring [E12]: large [E21] offshore emergence [E22], generally from cavernous limestone, but in some areas from beds of lava.	13	entity	origin	1
+630	[E11] subterranean river [E12]: [E21] underground stream [E22] of flowing water, not necessarily large.	13	entity	origin	1
+631	[E11] syngenetic karst [E12]: [E21] karst [E22] developed in eolian calcarenite where lithification of dune sands and productior of karst phenomena occurred simultaneously.	13	entity	origin	1
+635	[E11] tourelle [E12]: a little [E21] tower [E22]; applied to small flat-topped buttes of limestone in karst areas. contrasted with pitons, which have pointed tops, and with coupoles, which have rounded tops.	13	entity	origin	1
+640	[E11] uvala [E12]: large closed [E21] depression [E22] formed by the coalesence of several dolines; compound doline. depression	9	cause	effect	1
+641	[E11] vadose water [E12]: [E21] water [E22] ir the zone of aeration; water above the zone of saturation. aeration saturation	13	entity	origin	1
+643	[E11] wall slab [E12]: a thin but large [E21] block of rock [E22], which has fallen outward from the wall of a cave in limestone in which the dip is nearly vertical.	9	cause	effect	1
+644	[E11] well [E12]: a [E21] shaft or hole [E22] sunk into the earth to obtain water, oil, gas, or minerals.	13	entity	origin	1
+645	[E11] well [E12]: a deep vertical rounded [E21] hole or shaft [E22] in the floor of a cave or at the bottom of a closed depression. deep vertical rounded	13	entity	origin	1
+646	[E11] window [E12]: in speleology, a [E21] natural opening [E22] above the floor of a passage or a room, giving access to an adjoining cavity or to the surface; larger and less symmetrical than a porthole.	9	cause	effect	1
+646	[E11] window [E12]: in speleology, a [E21] natural opening [E22] above the floor of a passage or a room, giving access to an adjoining cavity or to the surface; larger and less symmetrical than a porthole.	13	entity	origin	1
+647	[E11] window [E12]: the [E21] opening [E22] under the arch of a small natural bridge. small natural	9	cause	effect	1
+647	[E11] window [E12]: the [E21] opening [E22] under the arch of a small natural bridge. small natural	13	entity	origin	1
+648	[E11] zanjon [E12]: in puerto pico, [E21] solution trench [E22] in limestone. zanjones range from a few centimeters to about 3 meters in width and from about 1 to 4 meters in depth. apparently they form by the widening and deepening of joints by solution.	9	cause	effect	1

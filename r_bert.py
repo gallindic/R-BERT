@@ -26,7 +26,7 @@ from transformers import (WEIGHTS_NAME, BertConfig, BertTokenizer)
 
 from transformers import AdamW, get_linear_schedule_with_warmup
 
-from utils import (SEMEVAL_RELATION_LABELS, TACRED_RELATION_LABELS, compute_metrics, 
+from utils import (SEMEVAL_RELATION_LABELS, TERMFRAME_RELATION_LABELS, TERMFRAME_MAPPED_RELATION_LABELS, TACRED_RELATION_LABELS, compute_metrics, 
     convert_examples_to_features, output_modes, data_processors)
 import torch.nn.functional as F
 
@@ -56,7 +56,6 @@ def train(config, train_dataset, model, tokenizer):
 
     train_dataloader = DataLoader(
         train_dataset, sampler=train_sampler, batch_size=config.train_batch_size)
-
     if config.max_steps > 0:
         t_total = config.max_steps
         config.num_train_epochs = config.max_steps // (
@@ -104,6 +103,7 @@ def train(config, train_dataset, model, tokenizer):
     model.zero_grad()
     train_iterator = trange(int(config.num_train_epochs),
                             desc="Epoch", disable=config.local_rank not in [-1, 0])
+
     # Added here for reproductibility (even between python 2 and 3)
     set_seed(config.seed)
     for _ in train_iterator:
@@ -244,6 +244,18 @@ def evaluate(config, model, tokenizer, prefix=""):
             for pred in preds:
                 writer.write(TACRED_RELATION_LABELS[pred])
                 writer.write("\n")
+    elif config.task_name == "termframe_eng":
+        output_eval_file = "eval/termframe_eng_res.txt"
+        with open(output_eval_file, "w") as writer:
+            for pred in preds:
+                writer.write(TERMFRAME_RELATION_LABELS[pred])
+                writer.write("\n")
+    elif config.task_name == "termframe_slo":
+        output_eval_file = "eval/termframe_slo_res.txt"
+        with open(output_eval_file, "w") as writer:
+            for pred in preds:
+                writer.write(TERMFRAME_RELATION_LABELS[pred])
+                writer.write("\n")
     return result
 
 
@@ -276,6 +288,8 @@ def load_and_cache_examples(config, task, tokenizer, evaluate=False, test=False)
         if config.local_rank in [-1, 0]:
             logger.info(f"Saving features into cached file {cached_features_file}")
             torch.save(features, cached_features_file)
+
+    print([f.label_id for f in features])
 
     if config.local_rank == 0 and not evaluate:
         # Make sure only the first process in distributed training process the dataset, and the others will use the cache
@@ -342,6 +356,8 @@ def main():
     label_list = processor.get_labels()
     num_labels = len(label_list)
 
+    print(num_labels, label_list)
+
     # Load pretrained model and tokenizer
     if config.local_rank not in [-1, 0]:
         torch.distributed.barrier()
@@ -353,6 +369,11 @@ def main():
         config.pretrained_model_name, do_lower_case=do_lower_case, additional_special_tokens=additional_special_tokens)    
     model = BertForSequenceClassification.from_pretrained(
         config.pretrained_model_name, config=bertconfig)
+    
+    #model = BertForSequenceClassification.from_pretrained(config.output_dir)
+    #do_lower_case = "-uncased" in config.pretrained_model_name
+    #tokenizer = BertTokenizer.from_pretrained(
+    #      config.output_dir, do_lower_case=do_lower_case, additional_special_tokens=additional_special_tokens)
 
     if config.local_rank == 0:
         # Make sure only the first process in distributed training will download model & vocab

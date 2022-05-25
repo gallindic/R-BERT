@@ -1,0 +1,99 @@
+2	[E11] holocen [E12] predstavlja [E21] medledeno dobo [E22], ki se je začela pred približno 11.000 leti s hitrim zviševanjem morske gladine.	2	has	result	1
+3	vse [E11] pojave [E12] premeščanja gradiva, ki nastanejo zaradi vpliva gravitacije in so pomemben dejavnik denudacije površja, imenujemo [E21] pobočni procesi [E22].	3	result	has	2
+3	vse [E11] pojave [E12] premeščanja gradiva, ki nastanejo zaradi vpliva gravitacije in so pomemben dejavnik denudacije površja, imenujemo [E21] pobočni procesi [E22].	1	cause	has	2
+4	pri izrazu [E11] pobočni procesi [E12] ime pove, da gre za [E21] procese [E22], ki se dogajajo na pobočjih.	6	has	location	1
+5	[E11] proces [E12], v katerem se trdna kompaktna kamnina pod vplivom eksogenih dejavnikov razkraja v manjše in med seboj nepovezane delce, imenujemo [E21] preperevanje [E22].	3	result	has	2
+5	[E11] proces [E12], v katerem se trdna kompaktna kamnina pod vplivom eksogenih dejavnikov razkraja v manjše in med seboj nepovezane delce, imenujemo [E21] preperevanje [E22].	1	cause	has	2
+7	takšnim [E11] meandrom [E12] pravimo tudi [E21] ujeti meandri [E22] in jih najdemo tudi v nekaterih drugih slovenskih pokrajinah.	5	form	has	2
+8	v leksikonu je [E11] spodmol [E12] definiran kot " kratka [E21] votlina [E22] z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali "	6	has	location	1
+8	v leksikonu je [E11] spodmol [E12] definiran kot " kratka [E21] votlina [E22] z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali "	0	has	cause	1
+8	v leksikonu je [E11] spodmol [E12] definiran kot " kratka [E21] votlina [E22] z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali "	4	has	form	1
+9	v geologiji je [E11] zemeljski plaz [E12] definiran kot [E21] območje [E22] preperine, usedline ali kamnine, ki se je hitro ali počasi premaknila s prvotnega kraja in ima vidno spremenjeno površje.	2	has	result	1
+10	v najstarejši literaturi izraz [E11] spodmol [E12] pomeni majhno [E21] izravnavo [E22] na povešenih gorskih hrbtih in slemenih.	6	has	location	1
+10	v najstarejši literaturi izraz [E11] spodmol [E12] pomeni majhno [E21] izravnavo [E22] na povešenih gorskih hrbtih in slemenih.	4	has	form	1
+11	[E11] spodmole [E12] opišejo kot vodoravne [E21] vdolbine [E22] / zajede v obliki črke c v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih	6	has	location	1
+11	[E11] spodmole [E12] opišejo kot vodoravne [E21] vdolbine [E22] / zajede v obliki črke c v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih	4	has	form	1
+12	uporablja se pojem [E11] prebojna dolina [E12], kar pa je samo slovenski izraz za antecedentno dolino, to je tisti del [E21] rečne doline [E22], ki se je ob dviganju antiklinale vrezal prečno na antiklinalo.	0	has	cause	1
+13	uporablja se pojem prebojna dolina, kar pa je samo slovenski izraz za [E11] antecedentno dolino [E12], to je tisti del [E21] rečne doline [E22], ki se je ob dviganju antiklinale vrezal prečno na antiklinalo.	0	has	cause	1
+14	izraz [E11] denudacija [E12] označuje [E21] razgaljanje površja [E22] oziroma ploskovno odstranjevanje preperelih snovi s površja zemlje z eksogenimi procesi. površja preperelih snovi ploskovno	2	has	result	1
+14	izraz [E11] denudacija [E12] označuje [E21] razgaljanje površja [E22] oziroma ploskovno odstranjevanje preperelih snovi s površja zemlje z eksogenimi procesi. površja preperelih snovi ploskovno	4	has	form	1
+15	z izrazom [E11] zemeljski plaz [E12] razumejo tako [E21] proces [E22], to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom gravitacije... ".	0	has	cause	1
+15	z izrazom [E11] zemeljski plaz [E12] razumejo tako [E21] proces [E22], to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom gravitacije... ".	2	has	result	1
+16	tovrstno [E11] izoblikovanost krasa [E12], kjer se osamljeno dvigajo več deset ali sto metrov visoke vzpetine, imenujemo [E21] kopasti kras [E22].	11	as	defined	2
+18	te razmeroma [E11] zaprte kotanje [E12] z obsežnim, z vrtačami razčlenjenim dnom, imenujemo [E21] uvale [E22].	5	form	has	2
+19	ta [E11] proces [E12] oblikovanja rovov na kontaktnem krasu imenujemo [E21] parageneza [E22]. rovov	7	location	has	2
+19	ta [E11] proces [E12] oblikovanja rovov na kontaktnem krasu imenujemo [E21] parageneza [E22]. rovov	3	result	has	2
+20	take [E11] jame [E12] imenujemo [E21] paragenetske jame [E22], zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi epifreatične jame.	7	location	has	2
+21	take [E11] jame [E12] imenujemo paragenetske jame, zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi [E21] epifreatične jame [E22].	7	location	has	2
+22	nad kraškim izvirom se pojavlja strm [E11] konec doline [E12], ki ga imenujemo [E21] zatrep [E22].	7	location	has	2
+22	nad kraškim izvirom se pojavlja strm [E11] konec doline [E12], ki ga imenujemo [E21] zatrep [E22].	5	form	has	2
+24	[E11] sloj [E12] med najvišjim in najnižjim nivojem podzemne vode v krasu imenujemo [E21] epifreatična cona [E22].	7	location	has	2
+25	[E11] višina točke [E12], ki jo imenujemo [E21] raven združevanja [E22], je sorazmerna meri različnosti med skupinama.	11	as	defined	2
+26	[E11] enote površja [E12], v katerih potekajo enaki ali podobni procesi, homogeni po vrsti in intenzivnosti, imenujemo [E21] morfogenetske enote [E22].	5	form	has	2
+27	zelo [E11] strmo pobočje [E12] z naklonom nad 55 ° ali 65 ° imenujemo stena ali [E21] klif [E22].	5	form	has	2
+28	zelo [E11] strmo pobočje [E12] z naklonom nad 55 ° ali 65 ° imenujemo [E21] stena [E22] ali klif.	5	form	has	2
+29	[E11] spremembo [E12] shannonove entropije imenujemo [E21] kolmogorovova entropija [E22] in je enaka vsoti pozitivnih lyapunovovih eksponentov.	3	result	has	2
+29	[E11] spremembo [E12] shannonove entropije imenujemo [E21] kolmogorovova entropija [E22] in je enaka vsoti pozitivnih lyapunovovih eksponentov.	11	as	defined	2
+30	s preperevanjem apnenca in dolomita nastane iz netopnih ostankov [E11] ilovica [E12], ki jo skupaj s huminskimi snovmi imenujemo [E21] jerovica [E22]. netopnih	5	form	has	2
+30	s preperevanjem apnenca in dolomita nastane iz netopnih ostankov [E11] ilovica [E12], ki jo skupaj s huminskimi snovmi imenujemo [E21] jerovica [E22]. netopnih	1	cause	has	2
+32	[E11] sediment [E12] nastane s trenjem in ga imenujemo [E21] tektonska glina [E22] zaradi velikosti delcev.	1	cause	has	2
+33	ljudsko ime [E11] lašt [E12] izhaja iz območja julijskih alp in ponazarja specifično obliko [E21] škrapelj [E22]. gre za večje skladovne police ali kamnite ploskve z velikimi ravnimi strukturnimi površinami in enakim strmcem.	4	has	form	1
+34	[E11] uvala [E12] je večja [E21] kraška globel [E22] skledaste oblike z neravnim dnom in sklenjenim višjim obodom. praviloma je manjša od kraškega polja in večja od vrtače.	4	has	form	1
+35	slovenska kraška terminologija navaja, da je [E11] vrtača [E12]: [E21] depresijska oblika [E22] okroglaste oblike, navadno globoka več metrov in je bolj široka kot globoka.	4	has	form	1
+36	[E11] požiralnik [E12] je definiran kot [E21] špranja [E22] ali brezno v skalnem koritu, ki požira vodo, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka	6	has	location	1
+37	slovenska kraška terminologija opredeli [E11] hum [E12] kot osamljen korozijsko-erozijsko-denudacijski [E21] ostanek višjega reliefa [E22], zlasti na dnu kraškega polja.	6	has	location	1
+37	slovenska kraška terminologija opredeli [E11] hum [E12] kot osamljen korozijsko-erozijsko-denudacijski [E21] ostanek višjega reliefa [E22], zlasti na dnu kraškega polja.	0	has	cause	1
+38	ford in williams opišeta [E11] hume [E12] kot eno izmed štirih [E21] tipov stolpičastega krasa [E22], in sicer kot ostanke vzpetin, ki štrlijo iz izravnanega karbonatnega površja, ki ga prekriva aluvij. karbonatnega	4	has	form	1
+39	[E11] kraška polja [E12] so največje in gospodarsko najpomembnejše [E21] kotanje [E22] v dinarskem krasu.	6	has	location	1
+40	[E11] škavnice [E12] so skledaste [E21] vdolbine [E22] na vodoravni ali rahlo nagnjeni skalni podlagi.	6	has	location	1
+40	[E11] škavnice [E12] so skledaste [E21] vdolbine [E22] na vodoravni ali rahlo nagnjeni skalni podlagi.	4	has	form	1
+41	[E11] žlebiči [E12] in žlebovi so [E21] žlebaste izjedenine [E22] s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona	6	has	location	1
+41	[E11] žlebiči [E12] in žlebovi so [E21] žlebaste izjedenine [E22] s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona	4	has	form	1
+42	žlebiči in [E11] žlebovi [E12] so [E21] žlebaste izjedenine [E22] s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona	6	has	location	1
+42	žlebiči in [E11] žlebovi [E12] so [E21] žlebaste izjedenine [E22] s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona	4	has	form	1
+43	[E11] veter [E12] je [E21] gibanje zraka [E22], ki nastane zaradi razlik v zračnem tlaku.	0	has	cause	1
+44	[E11] tlačna trdnost [E12] je [E21] odpornost proti tlačni obremenitvi [E22], ki jo kamnina prenese, preden se zdrobi.	10	defined	as	1
+45	po prvi definiciji je [E11] spodmol [E12] [E21] prostor pod previsom [E22] v skalovju, po drugi pa kratka vodoravna jama pod previsno steno. kratka	6	has	location	1
+45	po prvi definiciji je [E11] spodmol [E12] [E21] prostor pod previsom [E22] v skalovju, po drugi pa kratka vodoravna jama pod previsno steno. kratka	4	has	form	1
+46	večji ali manjši del kraškega polja je [E11] ravnica [E12], običajno obdelana [E21] zemlja [E22], ki je največkrat na naplavini ali debeli prsti.	6	has	location	1
+47	[E11] odlaganje sige [E12] je [E21] proces [E22], ki je ravno nasproten koroziji.	10	defined	as	1
+49	podkategorija te [E11] znanosti [E12] je [E21] astroglaciologija [E22], ki je nastala po odkritju vodnega ledu na luni, evropi, marsu in plutonu.	1	cause	has	2
+50	[E11] spodmol [E12] je definiran tudi kot [E21] previs [E22] na morski, redkeje jezerski obali, ki ga ustvari erozijsko delovanje valov in kot kraška jama.	6	has	location	1
+50	[E11] spodmol [E12] je definiran tudi kot [E21] previs [E22] na morski, redkeje jezerski obali, ki ga ustvari erozijsko delovanje valov in kot kraška jama.	0	has	cause	1
+51	[E11] škraplje [E12] so ena izmed najbolj tipičnih površinskih [E21] kraških oblik [E22], ki jih sestavljajo korozijsko razširjene razpoke ter vmesni bloki.	4	has	form	1
+52	[E11] kopasti vrhovi [E12] so najpogostejši tip [E21] kraške vzpetine [E22]. gre za višje predele kraškega površja, ki navadno ležijo med zaprtimi kraškimi kotanjami različnih dimenzij, kot so uvale, vrtače in druge manjše globeli.	6	has	location	1
+53	[E11] kotliči [E12] so skalnate [E21] globeli [E22] okrogle, podolgovate ali oglate oblike s premerom in globino nekaj metrov ter strmimi do navpičnimi stenami.	4	has	form	1
+55	[E11] vrtače [E12] so običajno krožne do polkrožne [E21] reliefne oblike [E22], ki se razlikujejo v premeru od nekaj m do 1 km.	4	has	form	1
+57	[E11] odlaganje sige [E12] je [E21] proces [E22], ki je ravno nasproten koroziji. odlaganje	10	defined	as	1
+58	[E11] kraška polja [E12] so največje in gospodarsko najpomembnejše [E21] kotanje [E22] v dinarskem krasu.	6	has	location	1
+59	[E11] suho kraško polje [E12] je tisto [E21] kraško polje [E22], ki je brez izvirov ali ponorov, zato ni stalnih ali občasnih vodotokov.	4	has	form	1
+62	[E11] kemično preperevanje [E12] je [E21] razgrajevanje kamnine [E22] pod vplivom vode in v njej raztopljenih snovi.	0	has	cause	1
+64	[E11] vrtača [E12] je manjša oblika [E21] kraške globeli [E22], ki je bolj široka kot globoka.	4	has	form	1
+65	[E11] kraška polja [E12] so največje oblike [E21] kraških kotanj [E22] na krasu.	6	has	location	1
+66	[E11] erozijski jarki [E12] so fluvialna [E21] erozijska oblika [E22], ki je na proučevanih območjih najpogostejša na pobočjih kotanj.	6	has	location	1
+66	[E11] erozijski jarki [E12] so fluvialna [E21] erozijska oblika [E22], ki je na proučevanih območjih najpogostejša na pobočjih kotanj.	0	has	cause	1
+69	[E11] fluviokraško površje [E12] je prehodna [E21] oblika kraškega reliefa [E22], kjer prevladuje odnašanje materiala in se površje mestoma preoblikuje fluvialno.	2	has	result	1
+70	[E11] erozijski jarki [E12] so tipična [E21] fluviokraška oblika [E22], kjer se zaradi lokalne prevlade mehanskega odtoka materiala površje preoblikuje fluvialno.	0	has	cause	1
+70	[E11] erozijski jarki [E12] so tipična [E21] fluviokraška oblika [E22], kjer se zaradi lokalne prevlade mehanskega odtoka materiala površje preoblikuje fluvialno.	2	has	result	1
+71	v literaturi so [E11] ponikve [E12] definirane kot vertikalni [E21] odtoki površinske vode [E22] v podzemlje, kjer je površje delno ali povsem prekrito z naplavino.	4	has	form	1
+73	[E11] paragenezo [E12] razumemo kot [E21] proces erodiranja in korodiranja [E22] jamskega stropa do gladine podzemne vode ter akumulacije alogenega materiala na dno rova.	2	has	result	1
+74	tafon in [E11] niša [E12] (spodmoli) sta dve različni [E21] reliefni obliki [E22], čeprav naj bi obe obliki nastali z votlinastim preperevanjem. po drugi strani imamo avtorje, ki spodmole enačijo s tafoni.	0	has	cause	1
+75	[E11] tafon [E12] in niša (spodmoli) sta dve različni [E21] reliefni obliki [E22], čeprav naj bi obe obliki nastali z votlinastim preperevanjem. po drugi strani imamo avtorje, ki spodmole enačijo s tafoni.	0	has	cause	1
+78	[E11] zoogena breča [E12] je značilna [E21] kamnina [E22] tega obdobja, ki je nastala predvsem iz ostankov favnističnega izvora.	0	has	cause	1
+79	[E11] jarkovna erozija [E12] je [E21] globinska erozija [E22], pri kateri na primer z zdruèvanjem erozijskih žlebičev nastajajo več metrov globoko in več deset metrov dolgi erozijski jarki.	2	has	result	1
+80	[E11] plazovitost [E12] je [E21] skladnost [E22] med usmerjenostjo pobočij in vpadom kamninskih plasti.	0	has	cause	1
+81	[E11] spodmoli [E12] so [E21] vdolbine [E22] v navpičnih stenah pod previsi, ki navadno ne dosegajo dimenzij jam, njihova širina pa je večja od globine.	6	has	location	1
+82	dolci, tudi [E11] dolki [E12], so plitve dolinaste [E21] reliefne oblike [E22] brez površinskega vodnega pretakanja.	4	has	form	1
+83	[E11] dolci [E12], tudi dolki, so plitve dolinaste [E21] reliefne oblike [E22] brez površinskega vodnega pretakanja.	4	has	form	1
+84	dolek oziroma [E11] dolec [E12] je [E21] geomorfološka oblika [E22], ki je zelo sorodna suhi dolini in se od nje razlikuje zgolj po velikosti.	4	has	form	1
+85	[E11] dolek [E12] oziroma dolec je [E21] geomorfološka oblika [E22], ki je zelo sorodna suhi dolini in se od nje razlikuje zgolj po velikosti.	4	has	form	1
+86	v kraški hidrologiji pomeni piezometrični nivo oziroma [E11] nivo podzemne vode [E12] v krasu [E21] navidezno višino vode [E22] v kanalih, ki vodijo proti izviru.	10	defined	as	1
+87	v kraški hidrologiji pomeni [E11] piezometrični nivo [E12] oziroma nivo podzemne vode v krasu [E21] navidezno višino vode [E22] v kanalih, ki vodijo proti izviru.	10	defined	as	1
+88	[E11] abrazija [E12] je [E21] destrukcijsko delo [E22] morskih in jezerskih valov.	0	has	cause	1
+89	[E11] erozija prsti [E12] je oznaka za [E21] proces [E22], ki povečini prizadene prst.	2	has	result	1
+91	[E11] erozijski jarki [E12] so stalna [E21] reliefna oblika [E22], pogosta na strmih pobočjih.	6	has	location	1
+91	[E11] erozijski jarki [E12] so stalna [E21] reliefna oblika [E22], pogosta na strmih pobočjih.	4	has	form	1
+92	[E11] mikrožlebiči [E12] so vzporedne, ravno potekajoče podolgovate [E21] vdolbine [E22], ki se pojavljajo na bolj nagnjeni goli skalni površini.	6	has	location	1
+92	[E11] mikrožlebiči [E12] so vzporedne, ravno potekajoče podolgovate [E21] vdolbine [E22], ki se pojavljajo na bolj nagnjeni goli skalni površini.	4	has	form	1
+93	[E11] korozijske stopničke [E12] so polkrožne kraške [E21] reliefne oblike [E22], ki se pojavljajo predvsem na golem skalnem površju.	6	has	location	1
+93	[E11] korozijske stopničke [E12] so polkrožne kraške [E21] reliefne oblike [E22], ki se pojavljajo predvsem na golem skalnem površju.	4	has	form	1

@@ -43,6 +43,23 @@ SEMEVAL_RELATION_LABELS = ['Other', 'Message-Topic(e1,e2)', 'Message-Topic(e2,e1
                    'Member-Collection(e1,e2)', 'Member-Collection(e2,e1)',
                    'Content-Container(e1,e2)', 'Content-Container(e2,e1)']
 
+TERMFRAME_RELATION_LABELS = ['HAS_CAUSE(e1,e2)', 'HAS_CAUSE(e2,e1)',
+                  'HAS_RESULT(e1,e2)', 'HAS_RESULT(e2,e1)',
+                  'HAS_FORM(e1,e2)', 'HAS_FORM(e2,e1)',
+                  'HAS_LOCATION(e1,e2)', 'HAS_LOCATION(e2,e1)',
+                  'HAS_ATTRIBUTE(e1,e2)', 'HAS_ATTRIBUTE(e2,e1)',
+                  'DEFINED_AS(e1,e2)', 'DEFINED_AS(e2,e1)']
+"""
+TERMFRAME_RELATION_LABELS = ['Other', 'Message-Topic(e1,e2)', 'Message-Topic(e2,e1)',
+                   'Product-Producer(e1,e2)', 'Product-Producer(e2,e1)',
+                   'Instrument-Agency(e1,e2)', 'Instrument-Agency(e2,e1)',
+                   'Entity-Destination(e1,e2)', 'Entity-Destination(e2,e1)',
+                   'Cause-Effect(e1,e2)', 'Cause-Effect(e2,e1)',
+                   'Component-Whole(e1,e2)', 'Component-Whole(e2,e1)',
+                   'Entity-Origin(e1,e2)', 'Entity-Origin(e2,e1)',
+                   'Member-Collection(e1,e2)', 'Member-Collection(e2,e1)',
+                   'Content-Container(e1,e2)', 'Content-Container(e2,e1)']
+"""
 # Used for TACRED dataset
 TACRED_RELATION_LABELS = ['org:founded_by', 'no_relation', 'per:employee_of', 'org:alternate_names', 
     'per:cities_of_residence', 'per:children', 'per:title', 'per:siblings', 'per:religion', 
@@ -146,6 +163,41 @@ class SemEvalProcessor(DataProcessor):
     def get_labels(self):
         """See base class."""
         return [str(i) for i in range(19)]
+
+    def _create_examples(self, lines, set_type):
+        """Creates examples for the training and dev sets.
+        e.g.,: 
+        2	the [E11] author [E12] of a keygen uses a [E21] disassembler [E22] to look at the raw assembly code .	6
+        """
+        examples = []
+        for (i, line) in enumerate(lines):
+            guid = "%s-%s" % (set_type, i)
+            text_a = line[1]
+            text_b = None
+            label = line[2]
+            examples.append(
+                InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
+        return examples
+
+
+class TermFrameProcessor(DataProcessor):
+    """Processor for the TermFrame data set."""
+
+    def get_train_examples(self, data_dir):
+        """See base class."""
+        logger.info("LOOKING AT {}".format(
+            os.path.join(data_dir, "train.tsv")))
+        return self._create_examples(
+            self._read_tsv(os.path.join(data_dir, "train.tsv")), "train")
+
+    def get_dev_examples(self, data_dir):
+        """See base class."""
+        return self._create_examples(
+            self._read_tsv(os.path.join(data_dir, "dev.tsv")), "dev")
+
+    def get_labels(self):
+        """See base class."""
+        return [str(i) for i in range(12)]
 
     def _create_examples(self, lines, set_type):
         """Creates examples for the training and dev sets.
@@ -405,7 +457,7 @@ def simple_accuracy(preds, labels):
 
 def acc_and_f1(preds, labels, average='micro'):
     acc = simple_accuracy(preds, labels)
-    f1 = f1_score(y_true=labels, y_pred=preds, average='micro')
+    f1 = f1_score(y_true=labels, y_pred=preds, average='macro')
     return {
         "acc": acc,
         "f1": f1,
@@ -421,14 +473,19 @@ def compute_metrics(task_name, preds, labels):
 data_processors = {
     "semeval": SemEvalProcessor,
     "tacred": TacredProcessor,
+    "termframe_eng": TermFrameProcessor,
+    "termframe_slo": TermFrameProcessor,
 }
 
 output_modes = {
     "semeval": "classification",
     "tacred": "classification",
+    "termframe": "classification",
 }
 
 GLUE_TASKS_NUM_LABELS = {
     "semeval": 19,
     "tacred": 42,
+    "termframe_eng": 12,
+    "termframe_slo": 12,
 }

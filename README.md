@@ -1,99 +1,33 @@
-# A Pytorch Implementation of R-BERT relation classification model
+This is a forked project of [R-BERT](https://github.com/jmshen1994/R-BERT). It is an unofficial pytorch implementation of R-BERT model described paper [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284).
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/enriching-pre-trained-language-model-with/relation-extraction-on-semeval-2010-task-8)](https://paperswithcode.com/sota/relation-extraction-on-semeval-2010-task-8?p=enriching-pre-trained-language-model-with)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/enriching-pre-trained-language-model-with/relation-extraction-on-tacred)](https://paperswithcode.com/sota/relation-extraction-on-tacred?p=enriching-pre-trained-language-model-with)
+## Datasets used
+ - SemEval
+ - TermFrame (EN/SL)
 
-This is an unofficial pytorch implementation of `R-BERT` model described paper [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284).
+## Prerequisites
 
-In addition to the SemEval 2010 dataset tested in the original paper, I aslo test implementation on the more recent [TACRED](https://nlp.stanford.edu/projects/tacred/) dataset 
+1. Run `pip install -r requirements.txt`
 
-## Requirements:
- 
-- Python version >= 3.6
-- Pytorch version >= 1.1
-- [Transformer library](https://github.com/huggingface/transformers) version >= 2.5.1
+## How to train/eval
 
-## Install
+All configurations are set in `config.ini`. To train or eval run `CUDA_VISIBLE_DEVICES=0 python r_bert.py --config config.ini`. The evaluation is ran on all the checkpoints in the output folder.
 
+1. On TermFrame (EN/SL)
+ - To train set `data_dir=./data/termframe_[eng/slo]`, `task_name=termframe_[eng/slo]`, `output_dir=./output/termframe_[eng/slo]`, `train=True`, `eval=False`, `save_steps=100-200`
+ - To eval set `train=False`, `eval=True` and it will evaluate for all checkpoints
+
+2. On SemEval
+ - To train set `data_dir=./data/semeval`, `task_name=semeval`, `output_dir=./output/semeval`, `train=True`, `eval=False`, `save_steps=[optional number]`
+ - To eval set `train=False`, `eval=True` and it will evaluate for all checkpoints
+
+## Transfer learning
+
+First in the `utils.py` change TERMFRAME_RELATION_LABELS, to use the mapped labels. To use the weights from training on SemEval run with following configuration settings:
 ```
-$ https://github.com/mickeystroller/R-BERT
-$ cd R-BERT
+task_name=termframe_[eng/slo]
+output_dir=./output/semeval
+data_dir=./data/termframe[eng/slo]
+train=True  #Change for evaluation
+eval=False  #Change for evaluation
 ```
-
-## Train
-
-### SemEval-2010 
-
-The SemEval-2010 dataset is already included in this repo and you can directly run:
-
-```
-CUDA_VISIBLE_DEVICES=0 python r_bert.py --config config.ini
-```
-
-### TACRED
-
-You need to first download TACRED dataset from [LDC](https://catalog.ldc.upenn.edu/LDC2018T24), which due to the license issue I cannot put in this repo. Then, you can directly run:
-
-```
-CUDA_VISIBLE_DEVICES=0 python r_bert.py --config config_tacred.ini
-```
-
-## Eval
-
-### SemEval-2010
-
-We use the official script for SemEval 2010 task-8
-
-```
-$ cd eval
-$ bash test.sh
-$ cat res.txt
-```
-
-### TACRED
-
-First, we generate prediction file `tac_res.txt` 
-
-```
-$ python eval_tacred.py
-```
-
-You may change test file/model path in the `eval_tacred.py` file
-
-Then, we use the official scoring script for TACRED dataset
-
-```
-$ python ./eval/score.py -gold_file <TACRED_DIR/data/gold/test.gold> -pred_file ./eval/tac_res.txt
-```
-
-
-## Results
-
-### SemEval-2010
-
-Below is the Macro-F1 score
-
-|        Model        | Original Paper |     Ours       |
-| ------------------- | -------------- | -------------- |
-| BERT-uncased-base   |     ----       |     88.40      |
-| BERT-uncased-large  |     89.25      |    **90.16**   |
-
-
-### TACRED
-
-Below is the evaluation result
-
-|        Model        |  Precision (Micro) | Recall (Micro) | F1 (Micro) |   
-| ------------------- | ------------------ | -------------- | ---------- |
-| BERT-uncased-base   |    **72.99**       |   62.50        |    67.34   |
-| BERT-cased-base     |    71.27           |   64.84        |    67.91   |
-| BERT-uncased-large  |    72.91           |   **66.20**    |  **69.39** |
-| BERT-cased-large    |    70.86           |   65.96        |    68.32   |
-
-
-
-## Reference
-
-1. [https://github.com/wang-h/bert-relation-classification](https://github.com/wang-h/bert-relation-classification)
-
-2. [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284).
+Keep in mind that this will create a checkpoint in the semeval folder, which can be moved to a seperate location and that location is used as output for evaluation (otherwise it will run on all the checkpoints in the semeval output folder).
